@@ -1,0 +1,2271 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentActivity: FragmentActivity()
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SwipeRefreshLayout: void setOnRefreshListener(android.support.v4.widget.SwipeRefreshLayout$OnRefreshListener)
+android.support.v4.widget.SwipeRefreshLayout: void setTriggerPercentage(float)
+android.support.v4.widget.SwipeRefreshLayout: void setRefreshing(boolean)
+android.support.v4.widget.SwipeRefreshLayout: void setTargetOffsetTopAndBottom(int)
+com.activeandroid.ActiveAndroid
+com.activeandroid.ActiveAndroid: ActiveAndroid()
+com.activeandroid.ActiveAndroid: void initialize(android.content.Context)
+com.activeandroid.ActiveAndroid: void initialize(com.activeandroid.Configuration)
+com.activeandroid.ActiveAndroid: void initialize(android.content.Context,boolean)
+com.activeandroid.ActiveAndroid: void initialize(com.activeandroid.Configuration,boolean)
+com.activeandroid.ActiveAndroid: void clearCache()
+com.activeandroid.ActiveAndroid: void dispose()
+com.activeandroid.ActiveAndroid: void setLoggingEnabled(boolean)
+com.activeandroid.ActiveAndroid: android.database.sqlite.SQLiteDatabase getDatabase()
+com.activeandroid.ActiveAndroid: void beginTransaction()
+com.activeandroid.ActiveAndroid: void endTransaction()
+com.activeandroid.ActiveAndroid: void setTransactionSuccessful()
+com.activeandroid.ActiveAndroid: boolean inTransaction()
+com.activeandroid.ActiveAndroid: void execSQL(java.lang.String)
+com.activeandroid.ActiveAndroid: void execSQL(java.lang.String,java.lang.Object[])
+com.activeandroid.Cache
+com.activeandroid.Cache: int DEFAULT_CACHE_SIZE
+com.activeandroid.Cache: android.content.Context sContext
+com.activeandroid.Cache: com.activeandroid.ModelInfo sModelInfo
+com.activeandroid.Cache: com.activeandroid.DatabaseHelper sDatabaseHelper
+com.activeandroid.Cache: android.support.v4.util.LruCache sEntities
+com.activeandroid.Cache: boolean sIsInitialized
+com.activeandroid.Cache: void <clinit>()
+com.activeandroid.Cache: Cache()
+com.activeandroid.Cache: void initialize(com.activeandroid.Configuration)
+com.activeandroid.Cache: void clear()
+com.activeandroid.Cache: void dispose()
+com.activeandroid.Cache: boolean isInitialized()
+com.activeandroid.Cache: android.database.sqlite.SQLiteDatabase openDatabase()
+com.activeandroid.Cache: void closeDatabase()
+com.activeandroid.Cache: android.content.Context getContext()
+com.activeandroid.Cache: java.lang.String getIdentifier(java.lang.Class,java.lang.Long)
+com.activeandroid.Cache: java.lang.String getIdentifier(com.activeandroid.Model)
+com.activeandroid.Cache: void addEntity(com.activeandroid.Model)
+com.activeandroid.Cache: com.activeandroid.Model getEntity(java.lang.Class,long)
+com.activeandroid.Cache: void removeEntity(com.activeandroid.Model)
+com.activeandroid.Cache: java.util.Collection getTableInfos()
+com.activeandroid.Cache: com.activeandroid.TableInfo getTableInfo(java.lang.Class)
+com.activeandroid.Cache: com.activeandroid.serializer.TypeSerializer getParserForType(java.lang.Class)
+com.activeandroid.Cache: java.lang.String getTableName(java.lang.Class)
+com.activeandroid.Configuration
+com.activeandroid.Configuration: java.lang.String SQL_PARSER_LEGACY
+com.activeandroid.Configuration: java.lang.String SQL_PARSER_DELIMITED
+com.activeandroid.Configuration: android.content.Context mContext
+com.activeandroid.Configuration: java.lang.String mDatabaseName
+com.activeandroid.Configuration: int mDatabaseVersion
+com.activeandroid.Configuration: java.lang.String mSqlParser
+com.activeandroid.Configuration: java.util.List mModelClasses
+com.activeandroid.Configuration: java.util.List mTypeSerializers
+com.activeandroid.Configuration: int mCacheSize
+com.activeandroid.Configuration: Configuration(android.content.Context)
+com.activeandroid.Configuration: android.content.Context getContext()
+com.activeandroid.Configuration: java.lang.String getDatabaseName()
+com.activeandroid.Configuration: int getDatabaseVersion()
+com.activeandroid.Configuration: java.lang.String getSqlParser()
+com.activeandroid.Configuration: java.util.List getModelClasses()
+com.activeandroid.Configuration: java.util.List getTypeSerializers()
+com.activeandroid.Configuration: int getCacheSize()
+com.activeandroid.Configuration: boolean isValid()
+com.activeandroid.Configuration: Configuration(android.content.Context,com.activeandroid.Configuration)
+com.activeandroid.Configuration: void access$1(com.activeandroid.Configuration,int)
+com.activeandroid.Configuration: void access$2(com.activeandroid.Configuration,java.lang.String)
+com.activeandroid.Configuration: void access$3(com.activeandroid.Configuration,int)
+com.activeandroid.Configuration: void access$4(com.activeandroid.Configuration,java.lang.String)
+com.activeandroid.Configuration: void access$5(com.activeandroid.Configuration,java.util.List)
+com.activeandroid.Configuration: void access$6(com.activeandroid.Configuration,java.util.List)
+com.activeandroid.Configuration$Builder
+com.activeandroid.Configuration$Builder: java.lang.String AA_DB_NAME
+com.activeandroid.Configuration$Builder: java.lang.String AA_DB_VERSION
+com.activeandroid.Configuration$Builder: java.lang.String AA_MODELS
+com.activeandroid.Configuration$Builder: java.lang.String AA_SERIALIZERS
+com.activeandroid.Configuration$Builder: java.lang.String AA_SQL_PARSER
+com.activeandroid.Configuration$Builder: int DEFAULT_CACHE_SIZE
+com.activeandroid.Configuration$Builder: java.lang.String DEFAULT_DB_NAME
+com.activeandroid.Configuration$Builder: java.lang.String DEFAULT_SQL_PARSER
+com.activeandroid.Configuration$Builder: android.content.Context mContext
+com.activeandroid.Configuration$Builder: java.lang.Integer mCacheSize
+com.activeandroid.Configuration$Builder: java.lang.String mDatabaseName
+com.activeandroid.Configuration$Builder: java.lang.Integer mDatabaseVersion
+com.activeandroid.Configuration$Builder: java.lang.String mSqlParser
+com.activeandroid.Configuration$Builder: java.util.List mModelClasses
+com.activeandroid.Configuration$Builder: java.util.List mTypeSerializers
+com.activeandroid.Configuration$Builder: Configuration$Builder(android.content.Context)
+com.activeandroid.Configuration$Builder: com.activeandroid.Configuration$Builder setCacheSize(int)
+com.activeandroid.Configuration$Builder: com.activeandroid.Configuration$Builder setDatabaseName(java.lang.String)
+com.activeandroid.Configuration$Builder: com.activeandroid.Configuration$Builder setDatabaseVersion(int)
+com.activeandroid.Configuration$Builder: com.activeandroid.Configuration$Builder setSqlParser(java.lang.String)
+com.activeandroid.Configuration$Builder: com.activeandroid.Configuration$Builder addModelClass(java.lang.Class)
+com.activeandroid.Configuration$Builder: com.activeandroid.Configuration$Builder addModelClasses(java.lang.Class[])
+com.activeandroid.Configuration$Builder: com.activeandroid.Configuration$Builder setModelClasses(java.lang.Class[])
+com.activeandroid.Configuration$Builder: com.activeandroid.Configuration$Builder addTypeSerializer(java.lang.Class)
+com.activeandroid.Configuration$Builder: com.activeandroid.Configuration$Builder addTypeSerializers(java.lang.Class[])
+com.activeandroid.Configuration$Builder: com.activeandroid.Configuration$Builder setTypeSerializers(java.lang.Class[])
+com.activeandroid.Configuration$Builder: com.activeandroid.Configuration create()
+com.activeandroid.Configuration$Builder: java.lang.String getMetaDataDatabaseNameOrDefault()
+com.activeandroid.Configuration$Builder: int getMetaDataDatabaseVersionOrDefault()
+com.activeandroid.Configuration$Builder: java.lang.String getMetaDataSqlParserOrDefault()
+com.activeandroid.Configuration$Builder: java.util.List loadModelList(java.lang.String[])
+com.activeandroid.Configuration$Builder: java.util.List loadSerializerList(java.lang.String[])
+com.activeandroid.DatabaseHelper
+com.activeandroid.DatabaseHelper: java.lang.String MIGRATION_PATH
+com.activeandroid.DatabaseHelper: java.lang.String mSqlParser
+com.activeandroid.DatabaseHelper: DatabaseHelper(com.activeandroid.Configuration)
+com.activeandroid.DatabaseHelper: void onOpen(android.database.sqlite.SQLiteDatabase)
+com.activeandroid.DatabaseHelper: void onCreate(android.database.sqlite.SQLiteDatabase)
+com.activeandroid.DatabaseHelper: void onUpgrade(android.database.sqlite.SQLiteDatabase,int,int)
+com.activeandroid.DatabaseHelper: void copyAttachedDatabase(android.content.Context,java.lang.String)
+com.activeandroid.DatabaseHelper: void executePragmas(android.database.sqlite.SQLiteDatabase)
+com.activeandroid.DatabaseHelper: void executeCreateIndex(android.database.sqlite.SQLiteDatabase)
+com.activeandroid.DatabaseHelper: void executeCreate(android.database.sqlite.SQLiteDatabase)
+com.activeandroid.DatabaseHelper: boolean executeMigrations(android.database.sqlite.SQLiteDatabase,int,int)
+com.activeandroid.DatabaseHelper: void executeSqlScript(android.database.sqlite.SQLiteDatabase,java.lang.String)
+com.activeandroid.DatabaseHelper: void executeDelimitedSqlScript(android.database.sqlite.SQLiteDatabase,java.io.InputStream)
+com.activeandroid.DatabaseHelper: void executeLegacySqlScript(android.database.sqlite.SQLiteDatabase,java.io.InputStream)
+com.activeandroid.Model
+com.activeandroid.Model: int HASH_PRIME
+com.activeandroid.Model: java.lang.Long mId
+com.activeandroid.Model: com.activeandroid.TableInfo mTableInfo
+com.activeandroid.Model: java.lang.String idName
+com.activeandroid.Model: Model()
+com.activeandroid.Model: java.lang.Long getId()
+com.activeandroid.Model: void delete()
+com.activeandroid.Model: java.lang.Long save()
+com.activeandroid.Model: void updateByUnique()
+com.activeandroid.Model: void putValue(android.content.ContentValues,java.lang.String,java.lang.Class,java.lang.Object)
+com.activeandroid.Model: void delete(java.lang.Class,long)
+com.activeandroid.Model: com.activeandroid.Model load(java.lang.Class,long)
+com.activeandroid.Model: void loadFromCursor(android.database.Cursor)
+com.activeandroid.Model: java.util.List getMany(java.lang.Class,java.lang.String)
+com.activeandroid.Model: java.lang.String toString()
+com.activeandroid.Model: boolean equals(java.lang.Object)
+com.activeandroid.Model: int hashCode()
+com.activeandroid.ModelInfo
+com.activeandroid.ModelInfo: java.util.Map mTableInfos
+com.activeandroid.ModelInfo: java.util.Map mTypeSerializers
+com.activeandroid.ModelInfo: ModelInfo(com.activeandroid.Configuration)
+com.activeandroid.ModelInfo: java.util.Collection getTableInfos()
+com.activeandroid.ModelInfo: com.activeandroid.TableInfo getTableInfo(java.lang.Class)
+com.activeandroid.ModelInfo: com.activeandroid.serializer.TypeSerializer getTypeSerializer(java.lang.Class)
+com.activeandroid.ModelInfo: boolean loadModelFromMetaData(com.activeandroid.Configuration)
+com.activeandroid.ModelInfo: void scanForModel(android.content.Context)
+com.activeandroid.ModelInfo: void scanForModelClasses(java.io.File,java.lang.String,java.lang.ClassLoader)
+com.activeandroid.ModelInfo$1
+com.activeandroid.ModelInfo$1: com.activeandroid.ModelInfo this$0
+com.activeandroid.ModelInfo$1: ModelInfo$1(com.activeandroid.ModelInfo)
+com.activeandroid.TableInfo
+com.activeandroid.TableInfo: java.lang.Class mType
+com.activeandroid.TableInfo: java.lang.String mTableName
+com.activeandroid.TableInfo: java.lang.String mIdName
+com.activeandroid.TableInfo: java.util.Map mColumnNames
+com.activeandroid.TableInfo: TableInfo(java.lang.Class)
+com.activeandroid.TableInfo: java.lang.Class getType()
+com.activeandroid.TableInfo: java.lang.String getTableName()
+com.activeandroid.TableInfo: java.lang.String getIdName()
+com.activeandroid.TableInfo: java.util.Collection getFields()
+com.activeandroid.TableInfo: java.lang.String getColumnName(java.lang.reflect.Field)
+com.activeandroid.TableInfo: java.lang.reflect.Field getIdField(java.lang.Class)
+com.activeandroid.annotation.Column
+com.activeandroid.annotation.Column: java.lang.String name()
+com.activeandroid.annotation.Column: int length()
+com.activeandroid.annotation.Column: boolean notNull()
+com.activeandroid.annotation.Column: com.activeandroid.annotation.Column$ConflictAction onNullConflict()
+com.activeandroid.annotation.Column: com.activeandroid.annotation.Column$ForeignKeyAction onDelete()
+com.activeandroid.annotation.Column: com.activeandroid.annotation.Column$ForeignKeyAction onUpdate()
+com.activeandroid.annotation.Column: boolean unique()
+com.activeandroid.annotation.Column: com.activeandroid.annotation.Column$ConflictAction onUniqueConflict()
+com.activeandroid.annotation.Column: java.lang.String[] uniqueGroups()
+com.activeandroid.annotation.Column: com.activeandroid.annotation.Column$ConflictAction[] onUniqueConflicts()
+com.activeandroid.annotation.Column: boolean index()
+com.activeandroid.annotation.Column: java.lang.String[] indexGroups()
+com.activeandroid.annotation.Column$ConflictAction
+com.activeandroid.annotation.Column$ConflictAction: com.activeandroid.annotation.Column$ConflictAction ROLLBACK
+com.activeandroid.annotation.Column$ConflictAction: com.activeandroid.annotation.Column$ConflictAction ABORT
+com.activeandroid.annotation.Column$ConflictAction: com.activeandroid.annotation.Column$ConflictAction FAIL
+com.activeandroid.annotation.Column$ConflictAction: com.activeandroid.annotation.Column$ConflictAction IGNORE
+com.activeandroid.annotation.Column$ConflictAction: com.activeandroid.annotation.Column$ConflictAction REPLACE
+com.activeandroid.annotation.Column$ConflictAction: com.activeandroid.annotation.Column$ConflictAction[] ENUM$VALUES
+com.activeandroid.annotation.Column$ConflictAction: void <clinit>()
+com.activeandroid.annotation.Column$ConflictAction: Column$ConflictAction(java.lang.String,int)
+com.activeandroid.annotation.Column$ConflictAction: com.activeandroid.annotation.Column$ConflictAction[] values()
+com.activeandroid.annotation.Column$ConflictAction: com.activeandroid.annotation.Column$ConflictAction valueOf(java.lang.String)
+com.activeandroid.annotation.Column$ForeignKeyAction
+com.activeandroid.annotation.Column$ForeignKeyAction: com.activeandroid.annotation.Column$ForeignKeyAction SET_NULL
+com.activeandroid.annotation.Column$ForeignKeyAction: com.activeandroid.annotation.Column$ForeignKeyAction SET_DEFAULT
+com.activeandroid.annotation.Column$ForeignKeyAction: com.activeandroid.annotation.Column$ForeignKeyAction CASCADE
+com.activeandroid.annotation.Column$ForeignKeyAction: com.activeandroid.annotation.Column$ForeignKeyAction RESTRICT
+com.activeandroid.annotation.Column$ForeignKeyAction: com.activeandroid.annotation.Column$ForeignKeyAction NO_ACTION
+com.activeandroid.annotation.Column$ForeignKeyAction: com.activeandroid.annotation.Column$ForeignKeyAction[] ENUM$VALUES
+com.activeandroid.annotation.Column$ForeignKeyAction: void <clinit>()
+com.activeandroid.annotation.Column$ForeignKeyAction: Column$ForeignKeyAction(java.lang.String,int)
+com.activeandroid.annotation.Column$ForeignKeyAction: com.activeandroid.annotation.Column$ForeignKeyAction[] values()
+com.activeandroid.annotation.Column$ForeignKeyAction: com.activeandroid.annotation.Column$ForeignKeyAction valueOf(java.lang.String)
+com.activeandroid.annotation.Table
+com.activeandroid.annotation.Table: java.lang.String DEFAULT_ID_NAME
+com.activeandroid.annotation.Table: java.lang.String name()
+com.activeandroid.annotation.Table: java.lang.String id()
+com.activeandroid.app.Application
+com.activeandroid.app.Application: Application()
+com.activeandroid.app.Application: void onCreate()
+com.activeandroid.app.Application: void onTerminate()
+com.activeandroid.content.ContentProvider
+com.activeandroid.content.ContentProvider: android.content.UriMatcher URI_MATCHER
+com.activeandroid.content.ContentProvider: android.util.SparseArray TYPE_CODES
+com.activeandroid.content.ContentProvider: java.lang.String sAuthority
+com.activeandroid.content.ContentProvider: android.util.SparseArray sMimeTypeCache
+com.activeandroid.content.ContentProvider: void <clinit>()
+com.activeandroid.content.ContentProvider: ContentProvider()
+com.activeandroid.content.ContentProvider: boolean onCreate()
+com.activeandroid.content.ContentProvider: java.lang.String getType(android.net.Uri)
+com.activeandroid.content.ContentProvider: android.net.Uri insert(android.net.Uri,android.content.ContentValues)
+com.activeandroid.content.ContentProvider: int update(android.net.Uri,android.content.ContentValues,java.lang.String,java.lang.String[])
+com.activeandroid.content.ContentProvider: int delete(android.net.Uri,java.lang.String,java.lang.String[])
+com.activeandroid.content.ContentProvider: android.database.Cursor query(android.net.Uri,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String)
+com.activeandroid.content.ContentProvider: android.net.Uri createUri(java.lang.Class,java.lang.Long)
+com.activeandroid.content.ContentProvider: java.lang.String getAuthority()
+com.activeandroid.content.ContentProvider: com.activeandroid.Configuration getConfiguration()
+com.activeandroid.content.ContentProvider: java.lang.Class getModelType(android.net.Uri)
+com.activeandroid.content.ContentProvider: void notifyChange(android.net.Uri)
+com.activeandroid.query.Delete
+com.activeandroid.query.Delete: Delete()
+com.activeandroid.query.Delete: com.activeandroid.query.From from(java.lang.Class)
+com.activeandroid.query.Delete: java.lang.String toSql()
+com.activeandroid.query.From
+com.activeandroid.query.From: com.activeandroid.query.Sqlable mQueryBase
+com.activeandroid.query.From: java.lang.Class mType
+com.activeandroid.query.From: java.lang.String mAlias
+com.activeandroid.query.From: java.util.List mJoins
+com.activeandroid.query.From: java.lang.StringBuilder mWhere
+com.activeandroid.query.From: java.lang.String mGroupBy
+com.activeandroid.query.From: java.lang.String mHaving
+com.activeandroid.query.From: java.lang.String mOrderBy
+com.activeandroid.query.From: java.lang.String mLimit
+com.activeandroid.query.From: java.lang.String mOffset
+com.activeandroid.query.From: java.util.List mArguments
+com.activeandroid.query.From: From(java.lang.Class,com.activeandroid.query.Sqlable)
+com.activeandroid.query.From: com.activeandroid.query.From as(java.lang.String)
+com.activeandroid.query.From: com.activeandroid.query.Join join(java.lang.Class)
+com.activeandroid.query.From: com.activeandroid.query.Join leftJoin(java.lang.Class)
+com.activeandroid.query.From: com.activeandroid.query.Join outerJoin(java.lang.Class)
+com.activeandroid.query.From: com.activeandroid.query.Join innerJoin(java.lang.Class)
+com.activeandroid.query.From: com.activeandroid.query.Join crossJoin(java.lang.Class)
+com.activeandroid.query.From: com.activeandroid.query.From where(java.lang.String)
+com.activeandroid.query.From: com.activeandroid.query.From where(java.lang.String,java.lang.Object[])
+com.activeandroid.query.From: com.activeandroid.query.From and(java.lang.String)
+com.activeandroid.query.From: com.activeandroid.query.From and(java.lang.String,java.lang.Object[])
+com.activeandroid.query.From: com.activeandroid.query.From or(java.lang.String)
+com.activeandroid.query.From: com.activeandroid.query.From or(java.lang.String,java.lang.Object[])
+com.activeandroid.query.From: com.activeandroid.query.From groupBy(java.lang.String)
+com.activeandroid.query.From: com.activeandroid.query.From having(java.lang.String)
+com.activeandroid.query.From: com.activeandroid.query.From orderBy(java.lang.String)
+com.activeandroid.query.From: com.activeandroid.query.From limit(int)
+com.activeandroid.query.From: com.activeandroid.query.From limit(java.lang.String)
+com.activeandroid.query.From: com.activeandroid.query.From offset(int)
+com.activeandroid.query.From: com.activeandroid.query.From offset(java.lang.String)
+com.activeandroid.query.From: void addArguments(java.lang.Object[])
+com.activeandroid.query.From: void addFrom(java.lang.StringBuilder)
+com.activeandroid.query.From: void addJoins(java.lang.StringBuilder)
+com.activeandroid.query.From: void addWhere(java.lang.StringBuilder)
+com.activeandroid.query.From: void addGroupBy(java.lang.StringBuilder)
+com.activeandroid.query.From: void addHaving(java.lang.StringBuilder)
+com.activeandroid.query.From: void addOrderBy(java.lang.StringBuilder)
+com.activeandroid.query.From: void addLimit(java.lang.StringBuilder)
+com.activeandroid.query.From: void addOffset(java.lang.StringBuilder)
+com.activeandroid.query.From: java.lang.String sqlString(java.lang.StringBuilder)
+com.activeandroid.query.From: java.lang.String toSql()
+com.activeandroid.query.From: java.lang.String toExistsSql()
+com.activeandroid.query.From: java.lang.String toCountSql()
+com.activeandroid.query.From: java.util.List execute()
+com.activeandroid.query.From: com.activeandroid.Model executeSingle()
+com.activeandroid.query.From: boolean exists()
+com.activeandroid.query.From: int count()
+com.activeandroid.query.From: java.lang.String[] getArguments()
+com.activeandroid.query.Join
+com.activeandroid.query.Join: com.activeandroid.query.From mFrom
+com.activeandroid.query.Join: java.lang.Class mType
+com.activeandroid.query.Join: java.lang.String mAlias
+com.activeandroid.query.Join: com.activeandroid.query.Join$JoinType mJoinType
+com.activeandroid.query.Join: java.lang.String mOn
+com.activeandroid.query.Join: java.lang.String[] mUsing
+com.activeandroid.query.Join: Join(com.activeandroid.query.From,java.lang.Class,com.activeandroid.query.Join$JoinType)
+com.activeandroid.query.Join: com.activeandroid.query.Join as(java.lang.String)
+com.activeandroid.query.Join: com.activeandroid.query.From on(java.lang.String)
+com.activeandroid.query.Join: com.activeandroid.query.From on(java.lang.String,java.lang.Object[])
+com.activeandroid.query.Join: com.activeandroid.query.From using(java.lang.String[])
+com.activeandroid.query.Join: java.lang.String toSql()
+com.activeandroid.query.Join$JoinType
+com.activeandroid.query.Join$JoinType: com.activeandroid.query.Join$JoinType LEFT
+com.activeandroid.query.Join$JoinType: com.activeandroid.query.Join$JoinType OUTER
+com.activeandroid.query.Join$JoinType: com.activeandroid.query.Join$JoinType INNER
+com.activeandroid.query.Join$JoinType: com.activeandroid.query.Join$JoinType CROSS
+com.activeandroid.query.Join$JoinType: com.activeandroid.query.Join$JoinType[] ENUM$VALUES
+com.activeandroid.query.Join$JoinType: void <clinit>()
+com.activeandroid.query.Join$JoinType: Join$JoinType(java.lang.String,int)
+com.activeandroid.query.Join$JoinType: com.activeandroid.query.Join$JoinType[] values()
+com.activeandroid.query.Join$JoinType: com.activeandroid.query.Join$JoinType valueOf(java.lang.String)
+com.activeandroid.query.Select
+com.activeandroid.query.Select: java.lang.String[] mColumns
+com.activeandroid.query.Select: boolean mDistinct
+com.activeandroid.query.Select: boolean mAll
+com.activeandroid.query.Select: Select()
+com.activeandroid.query.Select: Select(java.lang.String[])
+com.activeandroid.query.Select: Select(com.activeandroid.query.Select$Column[])
+com.activeandroid.query.Select: com.activeandroid.query.Select distinct()
+com.activeandroid.query.Select: com.activeandroid.query.Select all()
+com.activeandroid.query.Select: com.activeandroid.query.From from(java.lang.Class)
+com.activeandroid.query.Select: java.lang.String toSql()
+com.activeandroid.query.Select$Column
+com.activeandroid.query.Select$Column: java.lang.String name
+com.activeandroid.query.Select$Column: java.lang.String alias
+com.activeandroid.query.Select$Column: Select$Column(java.lang.String,java.lang.String)
+com.activeandroid.query.Set
+com.activeandroid.query.Set: com.activeandroid.query.Update mUpdate
+com.activeandroid.query.Set: java.lang.String mSet
+com.activeandroid.query.Set: java.lang.String mWhere
+com.activeandroid.query.Set: java.util.List mSetArguments
+com.activeandroid.query.Set: java.util.List mWhereArguments
+com.activeandroid.query.Set: Set(com.activeandroid.query.Update,java.lang.String)
+com.activeandroid.query.Set: Set(com.activeandroid.query.Update,java.lang.String,java.lang.Object[])
+com.activeandroid.query.Set: com.activeandroid.query.Set where(java.lang.String)
+com.activeandroid.query.Set: com.activeandroid.query.Set where(java.lang.String,java.lang.Object[])
+com.activeandroid.query.Set: java.lang.String toSql()
+com.activeandroid.query.Set: void execute()
+com.activeandroid.query.Set: java.lang.String[] getArguments()
+com.activeandroid.query.Sqlable
+com.activeandroid.query.Sqlable: java.lang.String toSql()
+com.activeandroid.query.Update
+com.activeandroid.query.Update: java.lang.Class mType
+com.activeandroid.query.Update: Update(java.lang.Class)
+com.activeandroid.query.Update: com.activeandroid.query.Set set(java.lang.String)
+com.activeandroid.query.Update: com.activeandroid.query.Set set(java.lang.String,java.lang.Object[])
+com.activeandroid.query.Update: java.lang.Class getType()
+com.activeandroid.query.Update: java.lang.String toSql()
+com.activeandroid.serializer.BigDecimalSerializer
+com.activeandroid.serializer.BigDecimalSerializer: BigDecimalSerializer()
+com.activeandroid.serializer.BigDecimalSerializer: java.lang.Class getDeserializedType()
+com.activeandroid.serializer.BigDecimalSerializer: java.lang.Class getSerializedType()
+com.activeandroid.serializer.BigDecimalSerializer: java.lang.String serialize(java.lang.Object)
+com.activeandroid.serializer.BigDecimalSerializer: java.math.BigDecimal deserialize(java.lang.Object)
+com.activeandroid.serializer.BigDecimalSerializer: java.lang.Object deserialize(java.lang.Object)
+com.activeandroid.serializer.BigDecimalSerializer: java.lang.Object serialize(java.lang.Object)
+com.activeandroid.serializer.CalendarSerializer
+com.activeandroid.serializer.CalendarSerializer: CalendarSerializer()
+com.activeandroid.serializer.CalendarSerializer: java.lang.Class getDeserializedType()
+com.activeandroid.serializer.CalendarSerializer: java.lang.Class getSerializedType()
+com.activeandroid.serializer.CalendarSerializer: java.lang.Long serialize(java.lang.Object)
+com.activeandroid.serializer.CalendarSerializer: java.util.Calendar deserialize(java.lang.Object)
+com.activeandroid.serializer.CalendarSerializer: java.lang.Object deserialize(java.lang.Object)
+com.activeandroid.serializer.CalendarSerializer: java.lang.Object serialize(java.lang.Object)
+com.activeandroid.serializer.FileSerializer
+com.activeandroid.serializer.FileSerializer: FileSerializer()
+com.activeandroid.serializer.FileSerializer: java.lang.Class getDeserializedType()
+com.activeandroid.serializer.FileSerializer: java.lang.Class getSerializedType()
+com.activeandroid.serializer.FileSerializer: java.lang.String serialize(java.lang.Object)
+com.activeandroid.serializer.FileSerializer: java.io.File deserialize(java.lang.Object)
+com.activeandroid.serializer.FileSerializer: java.lang.Object deserialize(java.lang.Object)
+com.activeandroid.serializer.FileSerializer: java.lang.Object serialize(java.lang.Object)
+com.activeandroid.serializer.SqlDateSerializer
+com.activeandroid.serializer.SqlDateSerializer: SqlDateSerializer()
+com.activeandroid.serializer.SqlDateSerializer: java.lang.Class getDeserializedType()
+com.activeandroid.serializer.SqlDateSerializer: java.lang.Class getSerializedType()
+com.activeandroid.serializer.SqlDateSerializer: java.lang.Long serialize(java.lang.Object)
+com.activeandroid.serializer.SqlDateSerializer: java.sql.Date deserialize(java.lang.Object)
+com.activeandroid.serializer.SqlDateSerializer: java.lang.Object deserialize(java.lang.Object)
+com.activeandroid.serializer.SqlDateSerializer: java.lang.Object serialize(java.lang.Object)
+com.activeandroid.serializer.TypeSerializer
+com.activeandroid.serializer.TypeSerializer: TypeSerializer()
+com.activeandroid.serializer.TypeSerializer: java.lang.Class getDeserializedType()
+com.activeandroid.serializer.TypeSerializer: java.lang.Class getSerializedType()
+com.activeandroid.serializer.TypeSerializer: java.lang.Object serialize(java.lang.Object)
+com.activeandroid.serializer.TypeSerializer: java.lang.Object deserialize(java.lang.Object)
+com.activeandroid.serializer.UUIDSerializer
+com.activeandroid.serializer.UUIDSerializer: UUIDSerializer()
+com.activeandroid.serializer.UUIDSerializer: java.lang.Class getDeserializedType()
+com.activeandroid.serializer.UUIDSerializer: java.lang.Class getSerializedType()
+com.activeandroid.serializer.UUIDSerializer: java.lang.String serialize(java.lang.Object)
+com.activeandroid.serializer.UUIDSerializer: java.util.UUID deserialize(java.lang.Object)
+com.activeandroid.serializer.UUIDSerializer: java.lang.Object deserialize(java.lang.Object)
+com.activeandroid.serializer.UUIDSerializer: java.lang.Object serialize(java.lang.Object)
+com.activeandroid.serializer.UtilDateSerializer
+com.activeandroid.serializer.UtilDateSerializer: UtilDateSerializer()
+com.activeandroid.serializer.UtilDateSerializer: java.lang.Class getDeserializedType()
+com.activeandroid.serializer.UtilDateSerializer: java.lang.Class getSerializedType()
+com.activeandroid.serializer.UtilDateSerializer: java.lang.Long serialize(java.lang.Object)
+com.activeandroid.serializer.UtilDateSerializer: java.util.Date deserialize(java.lang.Object)
+com.activeandroid.serializer.UtilDateSerializer: java.lang.Object deserialize(java.lang.Object)
+com.activeandroid.serializer.UtilDateSerializer: java.lang.Object serialize(java.lang.Object)
+com.activeandroid.util.IOUtils
+com.activeandroid.util.IOUtils: IOUtils()
+com.activeandroid.util.IOUtils: void closeQuietly(java.io.Closeable)
+com.activeandroid.util.IOUtils: void closeQuietly(android.database.Cursor)
+com.activeandroid.util.Log
+com.activeandroid.util.Log: java.lang.String sTag
+com.activeandroid.util.Log: boolean sEnabled
+com.activeandroid.util.Log: void <clinit>()
+com.activeandroid.util.Log: Log()
+com.activeandroid.util.Log: boolean isEnabled()
+com.activeandroid.util.Log: void setEnabled(boolean)
+com.activeandroid.util.Log: boolean isLoggingEnabled()
+com.activeandroid.util.Log: int v(java.lang.String)
+com.activeandroid.util.Log: int v(java.lang.String,java.lang.String)
+com.activeandroid.util.Log: int v(java.lang.String,java.lang.Throwable)
+com.activeandroid.util.Log: int v(java.lang.String,java.lang.String,java.lang.Throwable)
+com.activeandroid.util.Log: int d(java.lang.String)
+com.activeandroid.util.Log: int d(java.lang.String,java.lang.String)
+com.activeandroid.util.Log: int d(java.lang.String,java.lang.Throwable)
+com.activeandroid.util.Log: int d(java.lang.String,java.lang.String,java.lang.Throwable)
+com.activeandroid.util.Log: int i(java.lang.String)
+com.activeandroid.util.Log: int i(java.lang.String,java.lang.String)
+com.activeandroid.util.Log: int i(java.lang.String,java.lang.Throwable)
+com.activeandroid.util.Log: int i(java.lang.String,java.lang.String,java.lang.Throwable)
+com.activeandroid.util.Log: int w(java.lang.String)
+com.activeandroid.util.Log: int w(java.lang.String,java.lang.String)
+com.activeandroid.util.Log: int w(java.lang.String,java.lang.Throwable)
+com.activeandroid.util.Log: int w(java.lang.String,java.lang.String,java.lang.Throwable)
+com.activeandroid.util.Log: int e(java.lang.String)
+com.activeandroid.util.Log: int e(java.lang.String,java.lang.String)
+com.activeandroid.util.Log: int e(java.lang.String,java.lang.Throwable)
+com.activeandroid.util.Log: int e(java.lang.String,java.lang.String,java.lang.Throwable)
+com.activeandroid.util.Log: int t(java.lang.String,java.lang.Object[])
+com.activeandroid.util.NaturalOrderComparator
+com.activeandroid.util.NaturalOrderComparator: NaturalOrderComparator()
+com.activeandroid.util.NaturalOrderComparator: int compareRight(java.lang.String,java.lang.String)
+com.activeandroid.util.NaturalOrderComparator: int compare(java.lang.Object,java.lang.Object)
+com.activeandroid.util.NaturalOrderComparator: char charAt(java.lang.String,int)
+com.activeandroid.util.ReflectionUtils
+com.activeandroid.util.ReflectionUtils: ReflectionUtils()
+com.activeandroid.util.ReflectionUtils: boolean isModel(java.lang.Class)
+com.activeandroid.util.ReflectionUtils: boolean isTypeSerializer(java.lang.Class)
+com.activeandroid.util.ReflectionUtils: java.lang.Object getMetaData(android.content.Context,java.lang.String)
+com.activeandroid.util.ReflectionUtils: java.util.Set getDeclaredColumnFields(java.lang.Class)
+com.activeandroid.util.ReflectionUtils: boolean isSubclassOf(java.lang.Class,java.lang.Class)
+com.activeandroid.util.ReflectionUtils$1
+com.activeandroid.util.ReflectionUtils$1: ReflectionUtils$1()
+com.activeandroid.util.ReflectionUtils$1: int compare(java.lang.reflect.Field,java.lang.reflect.Field)
+com.activeandroid.util.ReflectionUtils$1: int compare(java.lang.Object,java.lang.Object)
+com.activeandroid.util.SQLiteUtils
+com.activeandroid.util.SQLiteUtils: boolean FOREIGN_KEYS_SUPPORTED
+com.activeandroid.util.SQLiteUtils: java.util.HashMap TYPE_MAP
+com.activeandroid.util.SQLiteUtils: java.util.HashMap sIndexGroupMap
+com.activeandroid.util.SQLiteUtils: java.util.HashMap sUniqueGroupMap
+com.activeandroid.util.SQLiteUtils: java.util.HashMap sOnUniqueConflictsMap
+com.activeandroid.util.SQLiteUtils: void <clinit>()
+com.activeandroid.util.SQLiteUtils: SQLiteUtils()
+com.activeandroid.util.SQLiteUtils: void execSql(java.lang.String)
+com.activeandroid.util.SQLiteUtils: void execSql(java.lang.String,java.lang.Object[])
+com.activeandroid.util.SQLiteUtils: java.util.List rawQuery(java.lang.Class,java.lang.String,java.lang.String[])
+com.activeandroid.util.SQLiteUtils: int intQuery(java.lang.String,java.lang.String[])
+com.activeandroid.util.SQLiteUtils: com.activeandroid.Model rawQuerySingle(java.lang.Class,java.lang.String,java.lang.String[])
+com.activeandroid.util.SQLiteUtils: java.util.ArrayList createUniqueDefinition(com.activeandroid.TableInfo)
+com.activeandroid.util.SQLiteUtils: void createUniqueColumnDefinition(com.activeandroid.TableInfo,java.lang.reflect.Field)
+com.activeandroid.util.SQLiteUtils: java.lang.String[] createIndexDefinition(com.activeandroid.TableInfo)
+com.activeandroid.util.SQLiteUtils: void createIndexColumnDefinition(com.activeandroid.TableInfo,java.lang.reflect.Field)
+com.activeandroid.util.SQLiteUtils: java.lang.String createTableDefinition(com.activeandroid.TableInfo)
+com.activeandroid.util.SQLiteUtils: java.lang.String createColumnDefinition(com.activeandroid.TableInfo,java.lang.reflect.Field)
+com.activeandroid.util.SQLiteUtils: java.util.List processCursor(java.lang.Class,android.database.Cursor)
+com.activeandroid.util.SQLiteUtils: int processIntCursor(android.database.Cursor)
+com.activeandroid.util.SQLiteUtils: java.util.List lexSqlScript(java.lang.String)
+com.activeandroid.util.SQLiteUtils$1
+com.activeandroid.util.SQLiteUtils$1: SQLiteUtils$1()
+com.activeandroid.util.SQLiteUtils$SQLiteType
+com.activeandroid.util.SQLiteUtils$SQLiteType: com.activeandroid.util.SQLiteUtils$SQLiteType INTEGER
+com.activeandroid.util.SQLiteUtils$SQLiteType: com.activeandroid.util.SQLiteUtils$SQLiteType REAL
+com.activeandroid.util.SQLiteUtils$SQLiteType: com.activeandroid.util.SQLiteUtils$SQLiteType TEXT
+com.activeandroid.util.SQLiteUtils$SQLiteType: com.activeandroid.util.SQLiteUtils$SQLiteType BLOB
+com.activeandroid.util.SQLiteUtils$SQLiteType: com.activeandroid.util.SQLiteUtils$SQLiteType[] ENUM$VALUES
+com.activeandroid.util.SQLiteUtils$SQLiteType: void <clinit>()
+com.activeandroid.util.SQLiteUtils$SQLiteType: SQLiteUtils$SQLiteType(java.lang.String,int)
+com.activeandroid.util.SQLiteUtils$SQLiteType: com.activeandroid.util.SQLiteUtils$SQLiteType[] values()
+com.activeandroid.util.SQLiteUtils$SQLiteType: com.activeandroid.util.SQLiteUtils$SQLiteType valueOf(java.lang.String)
+com.activeandroid.util.SqlParser
+com.activeandroid.util.SqlParser: int STATE_NONE
+com.activeandroid.util.SqlParser: int STATE_STRING
+com.activeandroid.util.SqlParser: int STATE_COMMENT
+com.activeandroid.util.SqlParser: int STATE_COMMENT_BLOCK
+com.activeandroid.util.SqlParser: SqlParser()
+com.activeandroid.util.SqlParser: java.util.List parse(java.io.InputStream)
+com.activeandroid.util.SqlParser: boolean isNewLine(char)
+com.activeandroid.util.SqlParser: boolean isWhitespace(char)
+com.activeandroid.util.Tokenizer
+com.activeandroid.util.Tokenizer: java.io.InputStream mStream
+com.activeandroid.util.Tokenizer: boolean mIsNext
+com.activeandroid.util.Tokenizer: int mCurrent
+com.activeandroid.util.Tokenizer: Tokenizer(java.io.InputStream)
+com.activeandroid.util.Tokenizer: boolean hasNext()
+com.activeandroid.util.Tokenizer: int next()
+com.activeandroid.util.Tokenizer: boolean skip(java.lang.String)
+com.activeandroid.widget.ModelAdapter
+com.activeandroid.widget.ModelAdapter: ModelAdapter(android.content.Context,int)
+com.activeandroid.widget.ModelAdapter: ModelAdapter(android.content.Context,int,int)
+com.activeandroid.widget.ModelAdapter: ModelAdapter(android.content.Context,int,java.util.List)
+com.activeandroid.widget.ModelAdapter: ModelAdapter(android.content.Context,int,int,java.util.List)
+com.activeandroid.widget.ModelAdapter: void setData(java.util.Collection)
+com.activeandroid.widget.ModelAdapter: long getItemId(int)
+com.itbox.forgetprice.AppContext
+com.itbox.forgetprice.AppContext: AppContext()
+com.itbox.forgetprice.EditGoodsActivity
+com.itbox.forgetprice.EditGoodsActivity: EditGoodsActivity()
+com.itbox.forgetprice.MainActivity
+com.itbox.forgetprice.MainActivity: MainActivity()
+com.itbox.forgetprice.R$attr
+com.itbox.forgetprice.R$attr: int fab_colorNormal
+com.itbox.forgetprice.R$attr: int fab_colorPressed
+com.itbox.forgetprice.R$attr: int fab_shadow
+com.itbox.forgetprice.R$attr: int reflectionColor
+com.itbox.forgetprice.R$color
+com.itbox.forgetprice.R$color: int bg_color
+com.itbox.forgetprice.R$color: int contents_text
+com.itbox.forgetprice.R$color: int encode_view
+com.itbox.forgetprice.R$color: int grgray
+com.itbox.forgetprice.R$color: int header
+com.itbox.forgetprice.R$color: int help_button_view
+com.itbox.forgetprice.R$color: int help_view
+com.itbox.forgetprice.R$color: int holo_purple
+com.itbox.forgetprice.R$color: int holo_purple_pressed
+com.itbox.forgetprice.R$color: int possible_result_points
+com.itbox.forgetprice.R$color: int result_image_border
+com.itbox.forgetprice.R$color: int result_minor_text
+com.itbox.forgetprice.R$color: int result_points
+com.itbox.forgetprice.R$color: int result_text
+com.itbox.forgetprice.R$color: int result_view
+com.itbox.forgetprice.R$color: int sbc_header_text
+com.itbox.forgetprice.R$color: int sbc_header_view
+com.itbox.forgetprice.R$color: int sbc_layout_view
+com.itbox.forgetprice.R$color: int sbc_list_item
+com.itbox.forgetprice.R$color: int sbc_page_number_text
+com.itbox.forgetprice.R$color: int sbc_snippet_text
+com.itbox.forgetprice.R$color: int selector_purple
+com.itbox.forgetprice.R$color: int share_text
+com.itbox.forgetprice.R$color: int share_view
+com.itbox.forgetprice.R$color: int status_text
+com.itbox.forgetprice.R$color: int status_view
+com.itbox.forgetprice.R$color: int transparent
+com.itbox.forgetprice.R$color: int viewfinder_frame
+com.itbox.forgetprice.R$color: int viewfinder_laser
+com.itbox.forgetprice.R$color: int viewfinder_mask
+com.itbox.forgetprice.R$dimen
+com.itbox.forgetprice.R$dimen: int activity_horizontal_margin
+com.itbox.forgetprice.R$dimen: int activity_vertical_margin
+com.itbox.forgetprice.R$dimen: int fab_shadow_size
+com.itbox.forgetprice.R$dimen: int fab_size
+com.itbox.forgetprice.R$drawable
+com.itbox.forgetprice.R$drawable: int common_button_green
+com.itbox.forgetprice.R$drawable: int common_button_green_disable
+com.itbox.forgetprice.R$drawable: int common_button_orange
+com.itbox.forgetprice.R$drawable: int common_button_orange_disable
+com.itbox.forgetprice.R$drawable: int dialog_bg
+com.itbox.forgetprice.R$drawable: int ic_launcher
+com.itbox.forgetprice.R$drawable: int icon_qrcode
+com.itbox.forgetprice.R$drawable: int item_line
+com.itbox.forgetprice.R$drawable: int line
+com.itbox.forgetprice.R$drawable: int navbar
+com.itbox.forgetprice.R$drawable: int quantou
+com.itbox.forgetprice.R$drawable: int rect_gray_normal
+com.itbox.forgetprice.R$drawable: int rect_gray_pressed
+com.itbox.forgetprice.R$drawable: int rect_purple_normal
+com.itbox.forgetprice.R$drawable: int rect_purple_pressed
+com.itbox.forgetprice.R$drawable: int rectangle_item_bg
+com.itbox.forgetprice.R$drawable: int rectangle_item_white_bg
+com.itbox.forgetprice.R$drawable: int selector_bt_gray
+com.itbox.forgetprice.R$drawable: int selector_bt_green
+com.itbox.forgetprice.R$drawable: int selector_bt_orange
+com.itbox.forgetprice.R$drawable: int selector_bt_purple
+com.itbox.forgetprice.R$drawable: int selector_pressed_white_gray
+com.itbox.forgetprice.R$drawable: int shadow
+com.itbox.forgetprice.R$drawable: int suggestion_line
+com.itbox.forgetprice.R$drawable: int top_background
+com.itbox.forgetprice.R$drawable: int umeng_common_gradient_green
+com.itbox.forgetprice.R$drawable: int umeng_common_gradient_orange
+com.itbox.forgetprice.R$drawable: int umeng_common_gradient_red
+com.itbox.forgetprice.R$drawable: int umeng_update_btn_check_off_focused_holo_light
+com.itbox.forgetprice.R$drawable: int umeng_update_btn_check_off_holo_light
+com.itbox.forgetprice.R$drawable: int umeng_update_btn_check_off_pressed_holo_light
+com.itbox.forgetprice.R$drawable: int umeng_update_btn_check_on_focused_holo_light
+com.itbox.forgetprice.R$drawable: int umeng_update_btn_check_on_holo_light
+com.itbox.forgetprice.R$drawable: int umeng_update_btn_check_on_pressed_holo_light
+com.itbox.forgetprice.R$drawable: int umeng_update_button_cancel_bg_focused
+com.itbox.forgetprice.R$drawable: int umeng_update_button_cancel_bg_normal
+com.itbox.forgetprice.R$drawable: int umeng_update_button_cancel_bg_selector
+com.itbox.forgetprice.R$drawable: int umeng_update_button_cancel_bg_tap
+com.itbox.forgetprice.R$drawable: int umeng_update_button_check_selector
+com.itbox.forgetprice.R$drawable: int umeng_update_button_close_bg_selector
+com.itbox.forgetprice.R$drawable: int umeng_update_button_ok_bg_focused
+com.itbox.forgetprice.R$drawable: int umeng_update_button_ok_bg_normal
+com.itbox.forgetprice.R$drawable: int umeng_update_button_ok_bg_selector
+com.itbox.forgetprice.R$drawable: int umeng_update_button_ok_bg_tap
+com.itbox.forgetprice.R$drawable: int umeng_update_close_bg_normal
+com.itbox.forgetprice.R$drawable: int umeng_update_close_bg_tap
+com.itbox.forgetprice.R$drawable: int umeng_update_dialog_bg
+com.itbox.forgetprice.R$drawable: int umeng_update_title_bg
+com.itbox.forgetprice.R$drawable: int umeng_update_wifi_disable
+com.itbox.forgetprice.R$drawable: int yun
+com.itbox.forgetprice.R$id
+com.itbox.forgetprice.R$id: int auto_focus
+com.itbox.forgetprice.R$id: int btn_cancel_scan
+com.itbox.forgetprice.R$id: int button_floating_action
+com.itbox.forgetprice.R$id: int container
+com.itbox.forgetprice.R$id: int decode
+com.itbox.forgetprice.R$id: int decode_failed
+com.itbox.forgetprice.R$id: int decode_succeeded
+com.itbox.forgetprice.R$id: int dialog_cancel
+com.itbox.forgetprice.R$id: int dialog_edit
+com.itbox.forgetprice.R$id: int dialog_goods_name
+com.itbox.forgetprice.R$id: int dialog_goods_price
+com.itbox.forgetprice.R$id: int dialog_operate_del
+com.itbox.forgetprice.R$id: int dialog_operate_edit
+com.itbox.forgetprice.R$id: int edit_name
+com.itbox.forgetprice.R$id: int edit_price
+com.itbox.forgetprice.R$id: int edit_save
+com.itbox.forgetprice.R$id: int edit_title
+com.itbox.forgetprice.R$id: int empty
+com.itbox.forgetprice.R$id: int encode_failed
+com.itbox.forgetprice.R$id: int encode_succeeded
+com.itbox.forgetprice.R$id: int goods_lv
+com.itbox.forgetprice.R$id: int goods_name
+com.itbox.forgetprice.R$id: int goods_price
+com.itbox.forgetprice.R$id: int launch_product_query
+com.itbox.forgetprice.R$id: int main
+com.itbox.forgetprice.R$id: int opera
+com.itbox.forgetprice.R$id: int parentPanel
+com.itbox.forgetprice.R$id: int preview_view
+com.itbox.forgetprice.R$id: int quit
+com.itbox.forgetprice.R$id: int restart_preview
+com.itbox.forgetprice.R$id: int return_scan_result
+com.itbox.forgetprice.R$id: int scan
+com.itbox.forgetprice.R$id: int search_book_contents_failed
+com.itbox.forgetprice.R$id: int search_book_contents_succeeded
+com.itbox.forgetprice.R$id: int top_rl
+com.itbox.forgetprice.R$id: int tv
+com.itbox.forgetprice.R$id: int umeng_common_icon_view
+com.itbox.forgetprice.R$id: int umeng_common_notification
+com.itbox.forgetprice.R$id: int umeng_common_notification_controller
+com.itbox.forgetprice.R$id: int umeng_common_progress_bar
+com.itbox.forgetprice.R$id: int umeng_common_progress_text
+com.itbox.forgetprice.R$id: int umeng_common_rich_notification_cancel
+com.itbox.forgetprice.R$id: int umeng_common_rich_notification_continue
+com.itbox.forgetprice.R$id: int umeng_common_title
+com.itbox.forgetprice.R$id: int umeng_update_content
+com.itbox.forgetprice.R$id: int umeng_update_id_cancel
+com.itbox.forgetprice.R$id: int umeng_update_id_check
+com.itbox.forgetprice.R$id: int umeng_update_id_close
+com.itbox.forgetprice.R$id: int umeng_update_id_ignore
+com.itbox.forgetprice.R$id: int umeng_update_id_ok
+com.itbox.forgetprice.R$id: int umeng_update_wifi_indicator
+com.itbox.forgetprice.R$id: int viewfinder_view
+com.itbox.forgetprice.R$layout
+com.itbox.forgetprice.R$layout: int activity_edit_goods
+com.itbox.forgetprice.R$layout: int activity_main
+com.itbox.forgetprice.R$layout: int activity_spalsh
+com.itbox.forgetprice.R$layout: int camera
+com.itbox.forgetprice.R$layout: int dialog_detail
+com.itbox.forgetprice.R$layout: int dialog_operate
+com.itbox.forgetprice.R$layout: int fragment_main
+com.itbox.forgetprice.R$layout: int layout_item_goods
+com.itbox.forgetprice.R$layout: int umeng_common_download_notification
+com.itbox.forgetprice.R$layout: int umeng_update_dialog
+com.itbox.forgetprice.R$raw
+com.itbox.forgetprice.R$raw: int beep
+com.itbox.forgetprice.R$raw: int realm_properties
+com.itbox.forgetprice.R$string
+com.itbox.forgetprice.R$string: int UMAppUpdate
+com.itbox.forgetprice.R$string: int UMBreak_Network
+com.itbox.forgetprice.R$string: int UMDialog_InstallAPK
+com.itbox.forgetprice.R$string: int UMGprsCondition
+com.itbox.forgetprice.R$string: int UMIgnore
+com.itbox.forgetprice.R$string: int UMNewVersion
+com.itbox.forgetprice.R$string: int UMNotNow
+com.itbox.forgetprice.R$string: int UMTargetSize
+com.itbox.forgetprice.R$string: int UMToast_IsUpdating
+com.itbox.forgetprice.R$string: int UMUpdateCheck
+com.itbox.forgetprice.R$string: int UMUpdateContent
+com.itbox.forgetprice.R$string: int UMUpdateNow
+com.itbox.forgetprice.R$string: int UMUpdateSize
+com.itbox.forgetprice.R$string: int UMUpdateTitle
+com.itbox.forgetprice.R$string: int action_settings
+com.itbox.forgetprice.R$string: int app_name
+com.itbox.forgetprice.R$string: int hello_world
+com.itbox.forgetprice.R$string: int umeng_common_action_cancel
+com.itbox.forgetprice.R$string: int umeng_common_action_continue
+com.itbox.forgetprice.R$string: int umeng_common_action_info_exist
+com.itbox.forgetprice.R$string: int umeng_common_action_pause
+com.itbox.forgetprice.R$string: int umeng_common_download_failed
+com.itbox.forgetprice.R$string: int umeng_common_download_finish
+com.itbox.forgetprice.R$string: int umeng_common_download_notification_prefix
+com.itbox.forgetprice.R$string: int umeng_common_icon
+com.itbox.forgetprice.R$string: int umeng_common_info_interrupt
+com.itbox.forgetprice.R$string: int umeng_common_network_break_alert
+com.itbox.forgetprice.R$string: int umeng_common_patch_finish
+com.itbox.forgetprice.R$string: int umeng_common_pause_notification_prefix
+com.itbox.forgetprice.R$string: int umeng_common_silent_download_finish
+com.itbox.forgetprice.R$string: int umeng_common_start_download_notification
+com.itbox.forgetprice.R$string: int umeng_common_start_patch_notification
+com.itbox.forgetprice.R$style
+com.itbox.forgetprice.R$style: int AppTheme
+com.itbox.forgetprice.R$style: int dialog
+com.itbox.forgetprice.R$styleable
+com.itbox.forgetprice.R$styleable: int[] FloatingActionButton
+com.itbox.forgetprice.R$styleable: int FloatingActionButton_fab_colorNormal
+com.itbox.forgetprice.R$styleable: int FloatingActionButton_fab_colorPressed
+com.itbox.forgetprice.R$styleable: int FloatingActionButton_fab_shadow
+com.itbox.forgetprice.R$styleable: int[] ShimmerView
+com.itbox.forgetprice.R$styleable: int ShimmerView_reflectionColor
+com.itbox.forgetprice.SpalshActivity
+com.itbox.forgetprice.SpalshActivity: SpalshActivity()
+com.itbox.forgetprice.bean.Goods
+com.itbox.forgetprice.bean.Goods: android.os.Parcelable$Creator CREATOR
+com.itbox.forgetprice.dialog.Effectstype: com.itbox.forgetprice.dialog.Effectstype[] values()
+com.itbox.forgetprice.dialog.Effectstype: com.itbox.forgetprice.dialog.Effectstype valueOf(java.lang.String)
+com.itbox.forgetprice.widget.Fab
+com.itbox.forgetprice.widget.Fab: Fab(android.content.Context,android.util.AttributeSet)
+com.itbox.forgetprice.widget.Fab: Fab(android.content.Context)
+com.itbox.forgetprice.widget.Fab: void setFabColor(int)
+com.itbox.forgetprice.widget.Fab: void setFabDrawable(android.graphics.drawable.Drawable)
+com.itbox.forgetprice.widget.FloatingActionButton
+com.itbox.forgetprice.widget.FloatingActionButton: FloatingActionButton(android.content.Context)
+com.itbox.forgetprice.widget.FloatingActionButton: FloatingActionButton(android.content.Context,android.util.AttributeSet)
+com.itbox.forgetprice.widget.FloatingActionButton: FloatingActionButton(android.content.Context,android.util.AttributeSet,int)
+com.itbox.forgetprice.widget.FloatingActionButton: void setBackgroundCompat(android.graphics.drawable.Drawable)
+com.itbox.forgetprice.widget.FloatingActionButton: int getListViewScrollY()
+com.itbox.forgetprice.widget.FloatingActionButton: void setColorNormal(int)
+com.itbox.forgetprice.widget.FloatingActionButton: int getColorNormal()
+com.itbox.forgetprice.widget.FloatingActionButton: void setColorPressed(int)
+com.itbox.forgetprice.widget.FloatingActionButton: int getColorPressed()
+com.itbox.forgetprice.widget.FloatingActionButton: void setShadow(boolean)
+com.itbox.forgetprice.widget.FloatingActionButton$SavedState
+com.itbox.forgetprice.widget.FloatingActionButton$SavedState: android.os.Parcelable$Creator CREATOR
+com.itbox.forgetprice.widget.ShimmerTextView
+com.itbox.forgetprice.widget.ShimmerTextView: ShimmerTextView(android.content.Context)
+com.itbox.forgetprice.widget.ShimmerTextView: ShimmerTextView(android.content.Context,android.util.AttributeSet)
+com.itbox.forgetprice.widget.ShimmerTextView: ShimmerTextView(android.content.Context,android.util.AttributeSet,int)
+com.itbox.forgetprice.widget.ShimmerTextView: float getGradientX()
+com.itbox.forgetprice.widget.ShimmerTextView: void setGradientX(float)
+com.itbox.forgetprice.widget.ShimmerTextView: void setShimmering(boolean)
+com.itbox.forgetprice.widget.ShimmerTextView: void setAnimationSetupCallback(com.itbox.forgetprice.widget.ShimmerViewHelper$AnimationSetupCallback)
+com.itbox.forgetprice.widget.ShimmerTextView: int getPrimaryColor()
+com.itbox.forgetprice.widget.ShimmerTextView: void setPrimaryColor(int)
+com.itbox.forgetprice.widget.ShimmerTextView: int getReflectionColor()
+com.itbox.forgetprice.widget.ShimmerTextView: void setReflectionColor(int)
+com.itbox.forgetprice.widget.ShimmerTextView: void setTextColor(int)
+com.itbox.forgetprice.widget.ShimmerTextView: void setTextColor(android.content.res.ColorStateList)
+com.umeng.analytics.AnalyticsConfig
+com.umeng.analytics.AnalyticsConfig: java.lang.String a
+com.umeng.analytics.AnalyticsConfig: java.lang.String b
+com.umeng.analytics.AnalyticsConfig: java.lang.String mWrapperType
+com.umeng.analytics.AnalyticsConfig: java.lang.String mWrapperVersion
+com.umeng.analytics.AnalyticsConfig: int mVerticalType
+com.umeng.analytics.AnalyticsConfig: java.lang.String GPU_VENDER
+com.umeng.analytics.AnalyticsConfig: java.lang.String GPU_RENDERER
+com.umeng.analytics.AnalyticsConfig: com.umeng.analytics.Gender sGender
+com.umeng.analytics.AnalyticsConfig: int sAge
+com.umeng.analytics.AnalyticsConfig: java.lang.String sId
+com.umeng.analytics.AnalyticsConfig: java.lang.String sSource
+com.umeng.analytics.AnalyticsConfig: double[] c
+com.umeng.analytics.AnalyticsConfig: int[] d
+com.umeng.analytics.AnalyticsConfig: boolean ACTIVITY_DURATION_OPEN
+com.umeng.analytics.AnalyticsConfig: boolean COMPRESS_DATA
+com.umeng.analytics.AnalyticsConfig: boolean ENABLE_MEMORY_BUFFER
+com.umeng.analytics.AnalyticsConfig: boolean CATCH_EXCEPTION
+com.umeng.analytics.AnalyticsConfig: long kContinueSessionMillis
+com.umeng.analytics.AnalyticsConfig: boolean UPDATE_IN_MAIN_PROCESS
+com.umeng.analytics.AnalyticsConfig: void <clinit>()
+com.umeng.analytics.AnalyticsConfig: AnalyticsConfig()
+com.umeng.analytics.AnalyticsConfig: void setAppkey(java.lang.String)
+com.umeng.analytics.AnalyticsConfig: void setChannel(java.lang.String)
+com.umeng.analytics.AnalyticsConfig: java.lang.String getAppkey(android.content.Context)
+com.umeng.analytics.AnalyticsConfig: java.lang.String getChannel(android.content.Context)
+com.umeng.analytics.AnalyticsConfig: double[] getLocation()
+com.umeng.analytics.AnalyticsConfig: void setLocation(double,double)
+com.umeng.analytics.AnalyticsConfig: void setReportPolicy(int,int)
+com.umeng.analytics.AnalyticsConfig: int[] getReportPolicy(android.content.Context)
+com.umeng.analytics.Gender
+com.umeng.analytics.Gender: com.umeng.analytics.Gender Male
+com.umeng.analytics.Gender: com.umeng.analytics.Gender Female
+com.umeng.analytics.Gender: com.umeng.analytics.Gender Unknown
+com.umeng.analytics.Gender: int value
+com.umeng.analytics.Gender: int[] a
+com.umeng.analytics.Gender: com.umeng.analytics.Gender[] b
+com.umeng.analytics.Gender: void <clinit>()
+com.umeng.analytics.Gender: Gender(java.lang.String,int,int)
+com.umeng.analytics.Gender: int value()
+com.umeng.analytics.Gender: com.umeng.analytics.Gender getGender(int)
+com.umeng.analytics.Gender: u.aly.ap transGender(com.umeng.analytics.Gender)
+com.umeng.analytics.Gender: com.umeng.analytics.Gender[] values()
+com.umeng.analytics.Gender: com.umeng.analytics.Gender valueOf(java.lang.String)
+com.umeng.analytics.Gender: Gender(java.lang.String,int,int,com.umeng.analytics.Gender)
+com.umeng.analytics.Gender: int[] a()
+com.umeng.analytics.Gender$1
+com.umeng.analytics.Gender$1: Gender$1(java.lang.String,int,int)
+com.umeng.analytics.Gender$1: java.lang.String toString()
+com.umeng.analytics.Gender$2
+com.umeng.analytics.Gender$2: Gender$2(java.lang.String,int,int)
+com.umeng.analytics.Gender$2: java.lang.String toString()
+com.umeng.analytics.Gender$3
+com.umeng.analytics.Gender$3: Gender$3(java.lang.String,int,int)
+com.umeng.analytics.Gender$3: java.lang.String toString()
+com.umeng.analytics.MobclickAgent
+com.umeng.analytics.MobclickAgent: java.lang.String a
+com.umeng.analytics.MobclickAgent: com.umeng.analytics.d b
+com.umeng.analytics.MobclickAgent: void <clinit>()
+com.umeng.analytics.MobclickAgent: MobclickAgent()
+com.umeng.analytics.MobclickAgent: void setAutoLocation(boolean)
+com.umeng.analytics.MobclickAgent: void setCatchUncaughtExceptions(boolean)
+com.umeng.analytics.MobclickAgent: void setWrapper(java.lang.String,java.lang.String)
+com.umeng.analytics.MobclickAgent: void setSessionContinueMillis(long)
+com.umeng.analytics.MobclickAgent: void setEnableEventBuffer(boolean)
+com.umeng.analytics.MobclickAgent: void setOnlineConfigureListener(com.umeng.analytics.onlineconfig.UmengOnlineConfigureListener)
+com.umeng.analytics.MobclickAgent: com.umeng.analytics.d getAgent()
+com.umeng.analytics.MobclickAgent: void setOpenGLContext(javax.microedition.khronos.opengles.GL10)
+com.umeng.analytics.MobclickAgent: void openActivityDurationTrack(boolean)
+com.umeng.analytics.MobclickAgent: void onPageStart(java.lang.String)
+com.umeng.analytics.MobclickAgent: void onPageEnd(java.lang.String)
+com.umeng.analytics.MobclickAgent: void setDebugMode(boolean)
+com.umeng.analytics.MobclickAgent: void onPause(android.content.Context)
+com.umeng.analytics.MobclickAgent: void onResume(android.content.Context)
+com.umeng.analytics.MobclickAgent: void onResume(android.content.Context,java.lang.String,java.lang.String)
+com.umeng.analytics.MobclickAgent: void reportError(android.content.Context,java.lang.String)
+com.umeng.analytics.MobclickAgent: void reportError(android.content.Context,java.lang.Throwable)
+com.umeng.analytics.MobclickAgent: void flush(android.content.Context)
+com.umeng.analytics.MobclickAgent: void onEvent(android.content.Context,java.lang.String)
+com.umeng.analytics.MobclickAgent: void onEvent(android.content.Context,java.lang.String,int)
+com.umeng.analytics.MobclickAgent: void onEvent(android.content.Context,java.lang.String,java.lang.String,int)
+com.umeng.analytics.MobclickAgent: void onEvent(android.content.Context,java.lang.String,java.lang.String)
+com.umeng.analytics.MobclickAgent: void onEvent(android.content.Context,java.lang.String,java.util.Map)
+com.umeng.analytics.MobclickAgent: void onEventDuration(android.content.Context,java.lang.String,long)
+com.umeng.analytics.MobclickAgent: void onEventDuration(android.content.Context,java.lang.String,java.lang.String,long)
+com.umeng.analytics.MobclickAgent: void onEventDuration(android.content.Context,java.lang.String,java.util.Map,long)
+com.umeng.analytics.MobclickAgent: void onEventValue(android.content.Context,java.lang.String,java.util.Map,int)
+com.umeng.analytics.MobclickAgent: void onEventBegin(android.content.Context,java.lang.String)
+com.umeng.analytics.MobclickAgent: void onEventEnd(android.content.Context,java.lang.String)
+com.umeng.analytics.MobclickAgent: void onEventBegin(android.content.Context,java.lang.String,java.lang.String)
+com.umeng.analytics.MobclickAgent: void onEventEnd(android.content.Context,java.lang.String,java.lang.String)
+com.umeng.analytics.MobclickAgent: void onKVEventBegin(android.content.Context,java.lang.String,java.util.Map,java.lang.String)
+com.umeng.analytics.MobclickAgent: void onKVEventEnd(android.content.Context,java.lang.String,java.lang.String)
+com.umeng.analytics.MobclickAgent: void onSocialEvent(android.content.Context,java.lang.String,com.umeng.analytics.social.UMPlatformData[])
+com.umeng.analytics.MobclickAgent: void onSocialEvent(android.content.Context,com.umeng.analytics.social.UMPlatformData[])
+com.umeng.analytics.MobclickAgent: java.lang.String getConfigParams(android.content.Context,java.lang.String)
+com.umeng.analytics.MobclickAgent: void updateOnlineConfig(android.content.Context,java.lang.String,java.lang.String)
+com.umeng.analytics.MobclickAgent: void updateOnlineConfig(android.content.Context)
+com.umeng.analytics.MobclickAgent: void setUserID(android.content.Context,java.lang.String,java.lang.String,com.umeng.analytics.Gender,int)
+com.umeng.analytics.MobclickAgent: void onKillProcess(android.content.Context)
+com.umeng.analytics.MobclickAgentJSInterface
+com.umeng.analytics.MobclickAgentJSInterface: android.content.Context a
+com.umeng.analytics.MobclickAgentJSInterface: MobclickAgentJSInterface(android.content.Context,android.webkit.WebView)
+com.umeng.analytics.MobclickAgentJSInterface: MobclickAgentJSInterface(android.content.Context,android.webkit.WebView,android.webkit.WebChromeClient)
+com.umeng.analytics.MobclickAgentJSInterface: android.content.Context a(com.umeng.analytics.MobclickAgentJSInterface)
+com.umeng.analytics.MobclickAgentJSInterface$a
+com.umeng.analytics.MobclickAgentJSInterface$a: android.webkit.WebChromeClient a
+com.umeng.analytics.MobclickAgentJSInterface$a: java.lang.String c
+com.umeng.analytics.MobclickAgentJSInterface$a: java.lang.String d
+com.umeng.analytics.MobclickAgentJSInterface$a: com.umeng.analytics.MobclickAgentJSInterface b
+com.umeng.analytics.MobclickAgentJSInterface$a: MobclickAgentJSInterface$a(com.umeng.analytics.MobclickAgentJSInterface,android.webkit.WebChromeClient)
+com.umeng.analytics.MobclickAgentJSInterface$a: boolean onJsPrompt(android.webkit.WebView,java.lang.String,java.lang.String,java.lang.String,android.webkit.JsPromptResult)
+com.umeng.analytics.MobclickAgentJSInterface$a: void onCloseWindow(android.webkit.WebView)
+com.umeng.analytics.MobclickAgentJSInterface$a: boolean onCreateWindow(android.webkit.WebView,boolean,boolean,android.os.Message)
+com.umeng.analytics.MobclickAgentJSInterface$a: boolean onJsAlert(android.webkit.WebView,java.lang.String,java.lang.String,android.webkit.JsResult)
+com.umeng.analytics.MobclickAgentJSInterface$a: boolean onJsBeforeUnload(android.webkit.WebView,java.lang.String,java.lang.String,android.webkit.JsResult)
+com.umeng.analytics.MobclickAgentJSInterface$a: boolean onJsConfirm(android.webkit.WebView,java.lang.String,java.lang.String,android.webkit.JsResult)
+com.umeng.analytics.MobclickAgentJSInterface$a: void onProgressChanged(android.webkit.WebView,int)
+com.umeng.analytics.MobclickAgentJSInterface$a: void onReceivedIcon(android.webkit.WebView,android.graphics.Bitmap)
+com.umeng.analytics.MobclickAgentJSInterface$a: void onReceivedTitle(android.webkit.WebView,java.lang.String)
+com.umeng.analytics.MobclickAgentJSInterface$a: void onRequestFocus(android.webkit.WebView)
+com.umeng.analytics.ReportPolicy
+com.umeng.analytics.ReportPolicy: int REALTIME
+com.umeng.analytics.ReportPolicy: int BATCH_AT_LAUNCH
+com.umeng.analytics.ReportPolicy: int a
+com.umeng.analytics.ReportPolicy: int b
+com.umeng.analytics.ReportPolicy: int DAILY
+com.umeng.analytics.ReportPolicy: int WIFIONLY
+com.umeng.analytics.ReportPolicy: int BATCH_BY_INTERVAL
+com.umeng.analytics.ReportPolicy: int BATCH_BY_SIZE
+com.umeng.analytics.ReportPolicy: ReportPolicy()
+com.umeng.analytics.ReportPolicy$a
+com.umeng.analytics.ReportPolicy$a: ReportPolicy$a()
+com.umeng.analytics.ReportPolicy$a: boolean a(boolean)
+com.umeng.analytics.ReportPolicy$b
+com.umeng.analytics.ReportPolicy$b: long a
+com.umeng.analytics.ReportPolicy$b: long b
+com.umeng.analytics.ReportPolicy$b: u.aly.w c
+com.umeng.analytics.ReportPolicy$b: ReportPolicy$b(u.aly.w,long)
+com.umeng.analytics.ReportPolicy$b: boolean a(boolean)
+com.umeng.analytics.ReportPolicy$b: long a()
+com.umeng.analytics.ReportPolicy$c
+com.umeng.analytics.ReportPolicy$c: int a
+com.umeng.analytics.ReportPolicy$c: u.aly.q b
+com.umeng.analytics.ReportPolicy$c: ReportPolicy$c(u.aly.q,int)
+com.umeng.analytics.ReportPolicy$c: boolean a(boolean)
+com.umeng.analytics.ReportPolicy$d
+com.umeng.analytics.ReportPolicy$d: long a
+com.umeng.analytics.ReportPolicy$d: u.aly.w b
+com.umeng.analytics.ReportPolicy$d: ReportPolicy$d(u.aly.w)
+com.umeng.analytics.ReportPolicy$d: boolean a(boolean)
+com.umeng.analytics.ReportPolicy$e
+com.umeng.analytics.ReportPolicy$e: ReportPolicy$e()
+com.umeng.analytics.ReportPolicy$e: boolean a(boolean)
+com.umeng.analytics.ReportPolicy$f
+com.umeng.analytics.ReportPolicy$f: android.content.Context a
+com.umeng.analytics.ReportPolicy$f: ReportPolicy$f(android.content.Context)
+com.umeng.analytics.ReportPolicy$f: boolean a(boolean)
+com.umeng.analytics.a
+com.umeng.analytics.a: java.lang.String a
+com.umeng.analytics.a: java.lang.String b
+com.umeng.analytics.a: java.lang.String c
+com.umeng.analytics.a: java.lang.String d
+com.umeng.analytics.a: java.lang.String e
+com.umeng.analytics.a: java.lang.String[] f
+com.umeng.analytics.a: java.lang.String[] g
+com.umeng.analytics.a: java.lang.String h
+com.umeng.analytics.a: java.lang.String i
+com.umeng.analytics.a: java.lang.String j
+com.umeng.analytics.a: java.lang.String k
+com.umeng.analytics.a: java.lang.String l
+com.umeng.analytics.a: long m
+com.umeng.analytics.a: long n
+com.umeng.analytics.a: boolean o
+com.umeng.analytics.a: void <clinit>()
+com.umeng.analytics.a: a()
+com.umeng.analytics.b
+com.umeng.analytics.b: b()
+com.umeng.analytics.b: boolean a(android.content.Context)
+com.umeng.analytics.c
+com.umeng.analytics.c: void a()
+com.umeng.analytics.c: void b()
+com.umeng.analytics.d
+com.umeng.analytics.d: com.umeng.analytics.onlineconfig.a a
+com.umeng.analytics.d: android.content.Context b
+com.umeng.analytics.d: com.umeng.analytics.c c
+com.umeng.analytics.d: u.aly.m d
+com.umeng.analytics.d: u.aly.z e
+com.umeng.analytics.d: u.aly.v f
+com.umeng.analytics.d: u.aly.n g
+com.umeng.analytics.d: u.aly.k h
+com.umeng.analytics.d: boolean i
+com.umeng.analytics.d: d()
+com.umeng.analytics.d: void f(android.content.Context)
+com.umeng.analytics.d: void a(java.lang.String)
+com.umeng.analytics.d: void b(java.lang.String)
+com.umeng.analytics.d: void a(com.umeng.analytics.c)
+com.umeng.analytics.d: void a(int)
+com.umeng.analytics.d: void a(java.lang.String,java.lang.String)
+com.umeng.analytics.d: void a(android.content.Context)
+com.umeng.analytics.d: void a(com.umeng.analytics.onlineconfig.UmengOnlineConfigureListener)
+com.umeng.analytics.d: void b(android.content.Context)
+com.umeng.analytics.d: void c(android.content.Context)
+com.umeng.analytics.d: void a(android.content.Context,java.lang.String,java.util.HashMap)
+com.umeng.analytics.d: void a(android.content.Context,java.lang.String)
+com.umeng.analytics.d: void a(android.content.Context,java.lang.Throwable)
+com.umeng.analytics.d: void g(android.content.Context)
+com.umeng.analytics.d: void h(android.content.Context)
+com.umeng.analytics.d: void d(android.content.Context)
+com.umeng.analytics.d: void a(android.content.Context,java.lang.String,java.lang.String,long,int)
+com.umeng.analytics.d: void a(android.content.Context,java.lang.String,java.util.Map,long)
+com.umeng.analytics.d: void a(android.content.Context,java.lang.String,java.lang.String)
+com.umeng.analytics.d: void b(android.content.Context,java.lang.String,java.lang.String)
+com.umeng.analytics.d: void a(android.content.Context,java.lang.String,java.util.HashMap,java.lang.String)
+com.umeng.analytics.d: void c(android.content.Context,java.lang.String,java.lang.String)
+com.umeng.analytics.d: void e(android.content.Context)
+com.umeng.analytics.d: void a(java.lang.Throwable)
+com.umeng.analytics.d: void a(com.umeng.analytics.d,android.content.Context)
+com.umeng.analytics.d: void b(com.umeng.analytics.d,android.content.Context)
+com.umeng.analytics.d: u.aly.n a(com.umeng.analytics.d)
+com.umeng.analytics.d$1
+com.umeng.analytics.d$1: com.umeng.analytics.d a
+com.umeng.analytics.d$1: android.content.Context b
+com.umeng.analytics.d$1: d$1(com.umeng.analytics.d,android.content.Context)
+com.umeng.analytics.d$1: void a()
+com.umeng.analytics.d$2
+com.umeng.analytics.d$2: com.umeng.analytics.d a
+com.umeng.analytics.d$2: android.content.Context b
+com.umeng.analytics.d$2: d$2(com.umeng.analytics.d,android.content.Context)
+com.umeng.analytics.d$2: void a()
+com.umeng.analytics.d$3
+com.umeng.analytics.d$3: com.umeng.analytics.d a
+com.umeng.analytics.d$3: java.lang.String b
+com.umeng.analytics.d$3: java.lang.String c
+com.umeng.analytics.d$3: d$3(com.umeng.analytics.d,java.lang.String,java.lang.String)
+com.umeng.analytics.d$3: void a()
+com.umeng.analytics.d$4
+com.umeng.analytics.d$4: com.umeng.analytics.d a
+com.umeng.analytics.d$4: java.lang.String b
+com.umeng.analytics.d$4: java.lang.String c
+com.umeng.analytics.d$4: d$4(com.umeng.analytics.d,java.lang.String,java.lang.String)
+com.umeng.analytics.d$4: void a()
+com.umeng.analytics.d$5
+com.umeng.analytics.d$5: com.umeng.analytics.d a
+com.umeng.analytics.d$5: java.lang.String b
+com.umeng.analytics.d$5: java.util.HashMap c
+com.umeng.analytics.d$5: java.lang.String d
+com.umeng.analytics.d$5: d$5(com.umeng.analytics.d,java.lang.String,java.util.HashMap,java.lang.String)
+com.umeng.analytics.d$5: void a()
+com.umeng.analytics.d$6
+com.umeng.analytics.d$6: com.umeng.analytics.d a
+com.umeng.analytics.d$6: java.lang.String b
+com.umeng.analytics.d$6: java.lang.String c
+com.umeng.analytics.d$6: d$6(com.umeng.analytics.d,java.lang.String,java.lang.String)
+com.umeng.analytics.d$6: void a()
+com.umeng.analytics.e
+com.umeng.analytics.e: java.util.concurrent.ExecutorService a
+com.umeng.analytics.e: long b
+com.umeng.analytics.e: java.util.concurrent.ExecutorService c
+com.umeng.analytics.e: void <clinit>()
+com.umeng.analytics.e: e()
+com.umeng.analytics.e: void a(java.lang.Runnable)
+com.umeng.analytics.e: void a()
+com.umeng.analytics.e: void b(java.lang.Runnable)
+com.umeng.analytics.f
+com.umeng.analytics.f: f()
+com.umeng.analytics.f: void run()
+com.umeng.analytics.f: void a()
+com.umeng.analytics.g
+com.umeng.analytics.g: com.umeng.analytics.g a
+com.umeng.analytics.g: android.content.Context b
+com.umeng.analytics.g: java.lang.String c
+com.umeng.analytics.g: long d
+com.umeng.analytics.g: long e
+com.umeng.analytics.g: java.lang.String f
+com.umeng.analytics.g: java.lang.String g
+com.umeng.analytics.g: java.lang.String h
+com.umeng.analytics.g: java.lang.String i
+com.umeng.analytics.g: java.lang.String j
+com.umeng.analytics.g: java.lang.String k
+com.umeng.analytics.g: java.lang.String l
+com.umeng.analytics.g: java.lang.String m
+com.umeng.analytics.g: java.lang.String n
+com.umeng.analytics.g: java.lang.String o
+com.umeng.analytics.g: java.lang.String p
+com.umeng.analytics.g: void <clinit>()
+com.umeng.analytics.g: g()
+com.umeng.analytics.g: com.umeng.analytics.g a(android.content.Context)
+com.umeng.analytics.g: boolean a(java.io.File)
+com.umeng.analytics.g: void a(java.lang.String,java.lang.String,int,int)
+com.umeng.analytics.g: java.lang.Object[] b(android.content.Context)
+com.umeng.analytics.g: int[] a()
+com.umeng.analytics.g: void a(int,int)
+com.umeng.analytics.g: byte[] b()
+com.umeng.analytics.g: void a(byte[])
+com.umeng.analytics.g: void c()
+com.umeng.analytics.g: byte[] d()
+com.umeng.analytics.g: void b(byte[])
+com.umeng.analytics.g: void e()
+com.umeng.analytics.g: boolean f()
+com.umeng.analytics.g: android.content.SharedPreferences k()
+com.umeng.analytics.g: android.content.SharedPreferences g()
+com.umeng.analytics.g: android.content.SharedPreferences h()
+com.umeng.analytics.g: android.content.SharedPreferences i()
+com.umeng.analytics.g: android.content.SharedPreferences j()
+com.umeng.analytics.g: java.lang.String l()
+com.umeng.analytics.g: java.lang.String m()
+com.umeng.analytics.g: java.lang.String n()
+com.umeng.analytics.game.UMGameAgent
+com.umeng.analytics.game.UMGameAgent: java.lang.String a
+com.umeng.analytics.game.UMGameAgent: java.lang.String b
+com.umeng.analytics.game.UMGameAgent: java.lang.String c
+com.umeng.analytics.game.UMGameAgent: java.lang.String d
+com.umeng.analytics.game.UMGameAgent: com.umeng.analytics.game.c e
+com.umeng.analytics.game.UMGameAgent: android.content.Context f
+com.umeng.analytics.game.UMGameAgent: void <clinit>()
+com.umeng.analytics.game.UMGameAgent: UMGameAgent()
+com.umeng.analytics.game.UMGameAgent: void init(android.content.Context)
+com.umeng.analytics.game.UMGameAgent: void setTraceSleepTime(boolean)
+com.umeng.analytics.game.UMGameAgent: void setPlayerInfo(java.lang.String,int,int,java.lang.String)
+com.umeng.analytics.game.UMGameAgent: void setPlayerLevel(java.lang.String)
+com.umeng.analytics.game.UMGameAgent: void startLevel(java.lang.String)
+com.umeng.analytics.game.UMGameAgent: void finishLevel(java.lang.String)
+com.umeng.analytics.game.UMGameAgent: void failLevel(java.lang.String)
+com.umeng.analytics.game.UMGameAgent: void pay(double,double,int)
+com.umeng.analytics.game.UMGameAgent: void pay(double,java.lang.String,int,double,int)
+com.umeng.analytics.game.UMGameAgent: void buy(java.lang.String,int,double)
+com.umeng.analytics.game.UMGameAgent: void use(java.lang.String,int,double)
+com.umeng.analytics.game.UMGameAgent: void bonus(double,int)
+com.umeng.analytics.game.UMGameAgent: void bonus(java.lang.String,int,double,int)
+com.umeng.analytics.game.UMGameAgent: boolean a(java.lang.String)
+com.umeng.analytics.game.UMGameAgent: void onEvent(java.lang.String,java.lang.String)
+com.umeng.analytics.game.UMGameAgent: void onSocialEvent(android.content.Context,java.lang.String,com.umeng.analytics.social.UMPlatformData[])
+com.umeng.analytics.game.UMGameAgent: void onSocialEvent(android.content.Context,com.umeng.analytics.social.UMPlatformData[])
+com.umeng.analytics.game.a
+com.umeng.analytics.game.a: boolean a
+com.umeng.analytics.game.a: void <clinit>()
+com.umeng.analytics.game.a: a()
+com.umeng.analytics.game.b
+com.umeng.analytics.game.b: java.lang.String a
+com.umeng.analytics.game.b: java.lang.String b
+com.umeng.analytics.game.b: android.content.Context c
+com.umeng.analytics.game.b: java.lang.String d
+com.umeng.analytics.game.b: java.lang.String e
+com.umeng.analytics.game.b: java.lang.String f
+com.umeng.analytics.game.b: java.lang.String g
+com.umeng.analytics.game.b: com.umeng.analytics.game.b$a h
+com.umeng.analytics.game.b: b(android.content.Context)
+com.umeng.analytics.game.b: com.umeng.analytics.game.b$a a(java.lang.String)
+com.umeng.analytics.game.b: void a()
+com.umeng.analytics.game.b: void b()
+com.umeng.analytics.game.b: com.umeng.analytics.game.b$a b(java.lang.String)
+com.umeng.analytics.game.b$a
+com.umeng.analytics.game.b$a: long a
+com.umeng.analytics.game.b$a: java.lang.String b
+com.umeng.analytics.game.b$a: long c
+com.umeng.analytics.game.b$a: long d
+com.umeng.analytics.game.b$a: b$a(java.lang.String)
+com.umeng.analytics.game.b$a: boolean a(java.lang.String)
+com.umeng.analytics.game.b$a: void a()
+com.umeng.analytics.game.b$a: void b()
+com.umeng.analytics.game.b$a: void c()
+com.umeng.analytics.game.b$a: void d()
+com.umeng.analytics.game.b$a: long e()
+com.umeng.analytics.game.b$a: java.lang.String f()
+com.umeng.analytics.game.c
+com.umeng.analytics.game.c: com.umeng.analytics.d a
+com.umeng.analytics.game.c: com.umeng.analytics.game.b b
+com.umeng.analytics.game.c: int c
+com.umeng.analytics.game.c: int d
+com.umeng.analytics.game.c: int e
+com.umeng.analytics.game.c: int f
+com.umeng.analytics.game.c: int g
+com.umeng.analytics.game.c: java.lang.String h
+com.umeng.analytics.game.c: java.lang.String i
+com.umeng.analytics.game.c: java.lang.String j
+com.umeng.analytics.game.c: java.lang.String k
+com.umeng.analytics.game.c: java.lang.String l
+com.umeng.analytics.game.c: java.lang.String m
+com.umeng.analytics.game.c: java.lang.String n
+com.umeng.analytics.game.c: java.lang.String o
+com.umeng.analytics.game.c: java.lang.String p
+com.umeng.analytics.game.c: java.lang.String q
+com.umeng.analytics.game.c: java.lang.String r
+com.umeng.analytics.game.c: java.lang.String s
+com.umeng.analytics.game.c: java.lang.String t
+com.umeng.analytics.game.c: java.lang.String u
+com.umeng.analytics.game.c: java.lang.String v
+com.umeng.analytics.game.c: java.lang.String w
+com.umeng.analytics.game.c: android.content.Context x
+com.umeng.analytics.game.c: c()
+com.umeng.analytics.game.c: void a(android.content.Context)
+com.umeng.analytics.game.c: void a(boolean)
+com.umeng.analytics.game.c: void a(java.lang.String,int,com.umeng.analytics.Gender,java.lang.String)
+com.umeng.analytics.game.c: void a(java.lang.String)
+com.umeng.analytics.game.c: void b(java.lang.String)
+com.umeng.analytics.game.c: void a(java.lang.String,int)
+com.umeng.analytics.game.c: void c(java.lang.String)
+com.umeng.analytics.game.c: void d(java.lang.String)
+com.umeng.analytics.game.c: void a(double,double,int)
+com.umeng.analytics.game.c: void a(double,java.lang.String,int,double,int)
+com.umeng.analytics.game.c: void a(java.lang.String,int,double)
+com.umeng.analytics.game.c: void b(java.lang.String,int,double)
+com.umeng.analytics.game.c: void a(double,int)
+com.umeng.analytics.game.c: void a(java.lang.String,int,double,int)
+com.umeng.analytics.game.c: void a()
+com.umeng.analytics.game.c: void b()
+com.umeng.analytics.game.c: com.umeng.analytics.game.b a(com.umeng.analytics.game.c)
+com.umeng.analytics.game.c: com.umeng.analytics.d b(com.umeng.analytics.game.c)
+com.umeng.analytics.game.c: android.content.Context c(com.umeng.analytics.game.c)
+com.umeng.analytics.game.c$1
+com.umeng.analytics.game.c$1: com.umeng.analytics.game.c a
+com.umeng.analytics.game.c$1: java.lang.String b
+com.umeng.analytics.game.c$1: c$1(com.umeng.analytics.game.c,java.lang.String)
+com.umeng.analytics.game.c$1: void a()
+com.umeng.analytics.game.c$2
+com.umeng.analytics.game.c$2: com.umeng.analytics.game.c a
+com.umeng.analytics.game.c$2: java.lang.String b
+com.umeng.analytics.game.c$2: int c
+com.umeng.analytics.game.c$2: c$2(com.umeng.analytics.game.c,java.lang.String,int)
+com.umeng.analytics.game.c$2: void a()
+com.umeng.analytics.onlineconfig.UmengOnlineConfigureListener
+com.umeng.analytics.onlineconfig.UmengOnlineConfigureListener: void onDataReceived(org.json.JSONObject)
+com.umeng.analytics.onlineconfig.a
+com.umeng.analytics.onlineconfig.a: java.lang.String h
+com.umeng.analytics.onlineconfig.a: java.lang.String i
+com.umeng.analytics.onlineconfig.a: java.lang.String j
+com.umeng.analytics.onlineconfig.a: java.lang.String a
+com.umeng.analytics.onlineconfig.a: java.lang.String b
+com.umeng.analytics.onlineconfig.a: java.lang.String c
+com.umeng.analytics.onlineconfig.a: java.lang.String d
+com.umeng.analytics.onlineconfig.a: java.lang.String e
+com.umeng.analytics.onlineconfig.a: java.lang.String f
+com.umeng.analytics.onlineconfig.a: java.lang.String g
+com.umeng.analytics.onlineconfig.a: com.umeng.analytics.onlineconfig.UmengOnlineConfigureListener k
+com.umeng.analytics.onlineconfig.a: com.umeng.analytics.onlineconfig.c l
+com.umeng.analytics.onlineconfig.a: long m
+com.umeng.analytics.onlineconfig.a: a()
+com.umeng.analytics.onlineconfig.a: void a(android.content.Context)
+com.umeng.analytics.onlineconfig.a: void a(com.umeng.analytics.onlineconfig.UmengOnlineConfigureListener)
+com.umeng.analytics.onlineconfig.a: void a()
+com.umeng.analytics.onlineconfig.a: void a(com.umeng.analytics.onlineconfig.c)
+com.umeng.analytics.onlineconfig.a: void b()
+com.umeng.analytics.onlineconfig.a: void a(org.json.JSONObject)
+com.umeng.analytics.onlineconfig.a: org.json.JSONObject b(android.content.Context)
+com.umeng.analytics.onlineconfig.a: java.lang.String c(android.content.Context)
+com.umeng.analytics.onlineconfig.a: void a(android.content.Context,com.umeng.analytics.onlineconfig.b)
+com.umeng.analytics.onlineconfig.a: void b(android.content.Context,com.umeng.analytics.onlineconfig.b)
+com.umeng.analytics.onlineconfig.a: void a(com.umeng.analytics.onlineconfig.a,org.json.JSONObject)
+com.umeng.analytics.onlineconfig.a: org.json.JSONObject a(com.umeng.analytics.onlineconfig.a,android.content.Context)
+com.umeng.analytics.onlineconfig.a: com.umeng.analytics.onlineconfig.c a(com.umeng.analytics.onlineconfig.a)
+com.umeng.analytics.onlineconfig.a: void a(com.umeng.analytics.onlineconfig.a,android.content.Context,com.umeng.analytics.onlineconfig.b)
+com.umeng.analytics.onlineconfig.a: void b(com.umeng.analytics.onlineconfig.a,android.content.Context,com.umeng.analytics.onlineconfig.b)
+com.umeng.analytics.onlineconfig.a$a
+com.umeng.analytics.onlineconfig.a$a: org.json.JSONObject e
+com.umeng.analytics.onlineconfig.a$a: com.umeng.analytics.onlineconfig.a a
+com.umeng.analytics.onlineconfig.a$a: a$a(com.umeng.analytics.onlineconfig.a,org.json.JSONObject)
+com.umeng.analytics.onlineconfig.a$a: org.json.JSONObject a()
+com.umeng.analytics.onlineconfig.a$a: java.lang.String b()
+com.umeng.analytics.onlineconfig.a$b
+com.umeng.analytics.onlineconfig.a$b: android.content.Context a
+com.umeng.analytics.onlineconfig.a$b: com.umeng.analytics.onlineconfig.a b
+com.umeng.analytics.onlineconfig.a$b: a$b(com.umeng.analytics.onlineconfig.a,android.content.Context)
+com.umeng.analytics.onlineconfig.a$b: void run()
+com.umeng.analytics.onlineconfig.a$b: boolean a()
+com.umeng.analytics.onlineconfig.a$b: void b()
+com.umeng.analytics.onlineconfig.b
+com.umeng.analytics.onlineconfig.b: org.json.JSONObject a
+com.umeng.analytics.onlineconfig.b: boolean b
+com.umeng.analytics.onlineconfig.b: int c
+com.umeng.analytics.onlineconfig.b: int d
+com.umeng.analytics.onlineconfig.b: java.lang.String e
+com.umeng.analytics.onlineconfig.b: java.lang.String f
+com.umeng.analytics.onlineconfig.b: java.lang.String g
+com.umeng.analytics.onlineconfig.b: java.lang.String h
+com.umeng.analytics.onlineconfig.b: java.lang.String i
+com.umeng.analytics.onlineconfig.b: java.lang.String j
+com.umeng.analytics.onlineconfig.b: b(org.json.JSONObject)
+com.umeng.analytics.onlineconfig.b: void a(org.json.JSONObject)
+com.umeng.analytics.onlineconfig.b: void a()
+com.umeng.analytics.onlineconfig.c
+com.umeng.analytics.onlineconfig.c: void a(int,long)
+com.umeng.analytics.social.UMPlatformData
+com.umeng.analytics.social.UMPlatformData: com.umeng.analytics.social.UMPlatformData$UMedia a
+com.umeng.analytics.social.UMPlatformData: java.lang.String b
+com.umeng.analytics.social.UMPlatformData: java.lang.String c
+com.umeng.analytics.social.UMPlatformData: java.lang.String d
+com.umeng.analytics.social.UMPlatformData: com.umeng.analytics.social.UMPlatformData$GENDER e
+com.umeng.analytics.social.UMPlatformData: UMPlatformData(com.umeng.analytics.social.UMPlatformData$UMedia,java.lang.String)
+com.umeng.analytics.social.UMPlatformData: java.lang.String getWeiboId()
+com.umeng.analytics.social.UMPlatformData: void setWeiboId(java.lang.String)
+com.umeng.analytics.social.UMPlatformData: com.umeng.analytics.social.UMPlatformData$UMedia getMeida()
+com.umeng.analytics.social.UMPlatformData: java.lang.String getUsid()
+com.umeng.analytics.social.UMPlatformData: java.lang.String getName()
+com.umeng.analytics.social.UMPlatformData: void setName(java.lang.String)
+com.umeng.analytics.social.UMPlatformData: com.umeng.analytics.social.UMPlatformData$GENDER getGender()
+com.umeng.analytics.social.UMPlatformData: void setGender(com.umeng.analytics.social.UMPlatformData$GENDER)
+com.umeng.analytics.social.UMPlatformData: boolean isValid()
+com.umeng.analytics.social.UMPlatformData: java.lang.String toString()
+com.umeng.analytics.social.UMPlatformData$GENDER
+com.umeng.analytics.social.UMPlatformData$GENDER: com.umeng.analytics.social.UMPlatformData$GENDER MALE
+com.umeng.analytics.social.UMPlatformData$GENDER: com.umeng.analytics.social.UMPlatformData$GENDER FEMALE
+com.umeng.analytics.social.UMPlatformData$GENDER: int value
+com.umeng.analytics.social.UMPlatformData$GENDER: com.umeng.analytics.social.UMPlatformData$GENDER[] a
+com.umeng.analytics.social.UMPlatformData$GENDER: void <clinit>()
+com.umeng.analytics.social.UMPlatformData$GENDER: UMPlatformData$GENDER(java.lang.String,int,int)
+com.umeng.analytics.social.UMPlatformData$GENDER: com.umeng.analytics.social.UMPlatformData$GENDER[] values()
+com.umeng.analytics.social.UMPlatformData$GENDER: com.umeng.analytics.social.UMPlatformData$GENDER valueOf(java.lang.String)
+com.umeng.analytics.social.UMPlatformData$GENDER: UMPlatformData$GENDER(java.lang.String,int,int,com.umeng.analytics.social.UMPlatformData$GENDER)
+com.umeng.analytics.social.UMPlatformData$GENDER$1
+com.umeng.analytics.social.UMPlatformData$GENDER$1: UMPlatformData$GENDER$1(java.lang.String,int,int)
+com.umeng.analytics.social.UMPlatformData$GENDER$1: java.lang.String toString()
+com.umeng.analytics.social.UMPlatformData$GENDER$2
+com.umeng.analytics.social.UMPlatformData$GENDER$2: UMPlatformData$GENDER$2(java.lang.String,int,int)
+com.umeng.analytics.social.UMPlatformData$GENDER$2: java.lang.String toString()
+com.umeng.analytics.social.UMPlatformData$UMedia
+com.umeng.analytics.social.UMPlatformData$UMedia: com.umeng.analytics.social.UMPlatformData$UMedia SINA_WEIBO
+com.umeng.analytics.social.UMPlatformData$UMedia: com.umeng.analytics.social.UMPlatformData$UMedia TENCENT_WEIBO
+com.umeng.analytics.social.UMPlatformData$UMedia: com.umeng.analytics.social.UMPlatformData$UMedia TENCENT_QZONE
+com.umeng.analytics.social.UMPlatformData$UMedia: com.umeng.analytics.social.UMPlatformData$UMedia TENCENT_QQ
+com.umeng.analytics.social.UMPlatformData$UMedia: com.umeng.analytics.social.UMPlatformData$UMedia WEIXIN_FRIENDS
+com.umeng.analytics.social.UMPlatformData$UMedia: com.umeng.analytics.social.UMPlatformData$UMedia WEIXIN_CIRCLE
+com.umeng.analytics.social.UMPlatformData$UMedia: com.umeng.analytics.social.UMPlatformData$UMedia RENREN
+com.umeng.analytics.social.UMPlatformData$UMedia: com.umeng.analytics.social.UMPlatformData$UMedia DOUBAN
+com.umeng.analytics.social.UMPlatformData$UMedia: com.umeng.analytics.social.UMPlatformData$UMedia[] a
+com.umeng.analytics.social.UMPlatformData$UMedia: void <clinit>()
+com.umeng.analytics.social.UMPlatformData$UMedia: UMPlatformData$UMedia(java.lang.String,int)
+com.umeng.analytics.social.UMPlatformData$UMedia: com.umeng.analytics.social.UMPlatformData$UMedia[] values()
+com.umeng.analytics.social.UMPlatformData$UMedia: com.umeng.analytics.social.UMPlatformData$UMedia valueOf(java.lang.String)
+com.umeng.analytics.social.UMPlatformData$UMedia: UMPlatformData$UMedia(java.lang.String,int,com.umeng.analytics.social.UMPlatformData$UMedia)
+com.umeng.analytics.social.UMPlatformData$UMedia$1
+com.umeng.analytics.social.UMPlatformData$UMedia$1: UMPlatformData$UMedia$1(java.lang.String,int)
+com.umeng.analytics.social.UMPlatformData$UMedia$1: java.lang.String toString()
+com.umeng.analytics.social.UMPlatformData$UMedia$2
+com.umeng.analytics.social.UMPlatformData$UMedia$2: UMPlatformData$UMedia$2(java.lang.String,int)
+com.umeng.analytics.social.UMPlatformData$UMedia$2: java.lang.String toString()
+com.umeng.analytics.social.UMPlatformData$UMedia$3
+com.umeng.analytics.social.UMPlatformData$UMedia$3: UMPlatformData$UMedia$3(java.lang.String,int)
+com.umeng.analytics.social.UMPlatformData$UMedia$3: java.lang.String toString()
+com.umeng.analytics.social.UMPlatformData$UMedia$4
+com.umeng.analytics.social.UMPlatformData$UMedia$4: UMPlatformData$UMedia$4(java.lang.String,int)
+com.umeng.analytics.social.UMPlatformData$UMedia$4: java.lang.String toString()
+com.umeng.analytics.social.UMPlatformData$UMedia$5
+com.umeng.analytics.social.UMPlatformData$UMedia$5: UMPlatformData$UMedia$5(java.lang.String,int)
+com.umeng.analytics.social.UMPlatformData$UMedia$5: java.lang.String toString()
+com.umeng.analytics.social.UMPlatformData$UMedia$6
+com.umeng.analytics.social.UMPlatformData$UMedia$6: UMPlatformData$UMedia$6(java.lang.String,int)
+com.umeng.analytics.social.UMPlatformData$UMedia$6: java.lang.String toString()
+com.umeng.analytics.social.UMPlatformData$UMedia$7
+com.umeng.analytics.social.UMPlatformData$UMedia$7: UMPlatformData$UMedia$7(java.lang.String,int)
+com.umeng.analytics.social.UMPlatformData$UMedia$7: java.lang.String toString()
+com.umeng.analytics.social.UMPlatformData$UMedia$8
+com.umeng.analytics.social.UMPlatformData$UMedia$8: UMPlatformData$UMedia$8(java.lang.String,int)
+com.umeng.analytics.social.UMPlatformData$UMedia$8: java.lang.String toString()
+com.umeng.analytics.social.UMSocialService
+com.umeng.analytics.social.UMSocialService: UMSocialService()
+com.umeng.analytics.social.UMSocialService: void a(android.content.Context,com.umeng.analytics.social.UMSocialService$b,java.lang.String,com.umeng.analytics.social.UMPlatformData[])
+com.umeng.analytics.social.UMSocialService: void share(android.content.Context,java.lang.String,com.umeng.analytics.social.UMPlatformData[])
+com.umeng.analytics.social.UMSocialService: void share(android.content.Context,com.umeng.analytics.social.UMPlatformData[])
+com.umeng.analytics.social.UMSocialService$a
+com.umeng.analytics.social.UMSocialService$a: java.lang.String a
+com.umeng.analytics.social.UMSocialService$a: java.lang.String b
+com.umeng.analytics.social.UMSocialService$a: com.umeng.analytics.social.UMSocialService$b c
+com.umeng.analytics.social.UMSocialService$a: com.umeng.analytics.social.UMPlatformData[] d
+com.umeng.analytics.social.UMSocialService$a: UMSocialService$a(java.lang.String[],com.umeng.analytics.social.UMSocialService$b,com.umeng.analytics.social.UMPlatformData[])
+com.umeng.analytics.social.UMSocialService$a: void onPreExecute()
+com.umeng.analytics.social.UMSocialService$a: com.umeng.analytics.social.d a(java.lang.Void[])
+com.umeng.analytics.social.UMSocialService$a: void a(com.umeng.analytics.social.d)
+com.umeng.analytics.social.UMSocialService$a: void onPostExecute(java.lang.Object)
+com.umeng.analytics.social.UMSocialService$a: java.lang.Object doInBackground(java.lang.Object[])
+com.umeng.analytics.social.UMSocialService$b
+com.umeng.analytics.social.UMSocialService$b: void a()
+com.umeng.analytics.social.UMSocialService$b: void a(com.umeng.analytics.social.d,com.umeng.analytics.social.UMPlatformData[])
+com.umeng.analytics.social.a
+com.umeng.analytics.social.a: long b
+com.umeng.analytics.social.a: int a
+com.umeng.analytics.social.a: java.lang.String c
+com.umeng.analytics.social.a: int a()
+com.umeng.analytics.social.a: a(int,java.lang.String)
+com.umeng.analytics.social.a: a(java.lang.String,java.lang.Throwable)
+com.umeng.analytics.social.a: a(java.lang.String)
+com.umeng.analytics.social.a: java.lang.String getMessage()
+com.umeng.analytics.social.b
+com.umeng.analytics.social.b: b()
+com.umeng.analytics.social.b: void a(java.lang.String,java.lang.String)
+com.umeng.analytics.social.b: void a(java.lang.String,java.lang.String,java.lang.Exception)
+com.umeng.analytics.social.b: void b(java.lang.String,java.lang.String)
+com.umeng.analytics.social.b: void b(java.lang.String,java.lang.String,java.lang.Exception)
+com.umeng.analytics.social.b: void c(java.lang.String,java.lang.String)
+com.umeng.analytics.social.b: void c(java.lang.String,java.lang.String,java.lang.Exception)
+com.umeng.analytics.social.b: void d(java.lang.String,java.lang.String)
+com.umeng.analytics.social.b: void d(java.lang.String,java.lang.String,java.lang.Exception)
+com.umeng.analytics.social.b: void e(java.lang.String,java.lang.String)
+com.umeng.analytics.social.b: void e(java.lang.String,java.lang.String,java.lang.Exception)
+com.umeng.analytics.social.c
+com.umeng.analytics.social.c: c()
+com.umeng.analytics.social.c: java.lang.String a(java.lang.String)
+com.umeng.analytics.social.c: java.lang.String a(java.io.InputStream)
+com.umeng.analytics.social.c: java.lang.String a(java.lang.String,java.lang.String)
+com.umeng.analytics.social.d
+com.umeng.analytics.social.d: int a
+com.umeng.analytics.social.d: java.lang.String b
+com.umeng.analytics.social.d: java.lang.String c
+com.umeng.analytics.social.d: java.lang.Exception d
+com.umeng.analytics.social.d: d(int)
+com.umeng.analytics.social.d: d(int,java.lang.Exception)
+com.umeng.analytics.social.d: java.lang.Exception a()
+com.umeng.analytics.social.d: int b()
+com.umeng.analytics.social.d: void a(int)
+com.umeng.analytics.social.d: java.lang.String c()
+com.umeng.analytics.social.d: void a(java.lang.String)
+com.umeng.analytics.social.d: java.lang.String d()
+com.umeng.analytics.social.d: void b(java.lang.String)
+com.umeng.analytics.social.d: java.lang.String toString()
+com.umeng.analytics.social.e
+com.umeng.analytics.social.e: java.lang.String a
+com.umeng.analytics.social.e: java.lang.String b
+com.umeng.analytics.social.e: java.lang.String c
+com.umeng.analytics.social.e: java.lang.String d
+com.umeng.analytics.social.e: java.lang.String e
+com.umeng.analytics.social.e: java.lang.String f
+com.umeng.analytics.social.e: java.lang.String g
+com.umeng.analytics.social.e: java.lang.String h
+com.umeng.analytics.social.e: java.lang.String i
+com.umeng.analytics.social.e: java.lang.String j
+com.umeng.analytics.social.e: java.lang.String k
+com.umeng.analytics.social.e: java.lang.String l
+com.umeng.analytics.social.e: java.lang.String m
+com.umeng.analytics.social.e: java.lang.String n
+com.umeng.analytics.social.e: java.lang.String o
+com.umeng.analytics.social.e: java.lang.String p
+com.umeng.analytics.social.e: java.lang.String q
+com.umeng.analytics.social.e: java.lang.String r
+com.umeng.analytics.social.e: java.lang.String s
+com.umeng.analytics.social.e: int t
+com.umeng.analytics.social.e: int u
+com.umeng.analytics.social.e: boolean v
+com.umeng.analytics.social.e: void <clinit>()
+com.umeng.analytics.social.e: e()
+com.umeng.analytics.social.f
+com.umeng.analytics.social.f: java.util.Map a
+com.umeng.analytics.social.f: f()
+com.umeng.analytics.social.f: java.lang.String[] a(android.content.Context,java.lang.String,com.umeng.analytics.social.UMPlatformData[])
+com.umeng.analytics.social.f: java.lang.String a(java.util.List)
+com.umeng.analytics.social.f: java.util.List a(com.umeng.analytics.social.UMPlatformData[])
+com.umeng.analytics.social.f: java.lang.String b(com.umeng.analytics.social.UMPlatformData[])
+com.umeng.analytics.social.f: java.util.Map c(android.content.Context)
+com.umeng.analytics.social.f: java.lang.String a(android.content.Context)
+com.umeng.analytics.social.f: java.util.Map b(android.content.Context)
+com.umeng.analytics.social.f: boolean a(android.content.Context,java.lang.String)
+com.umeng.analytics.social.f: java.lang.String d(android.content.Context)
+com.umeng.update.UmengDialogButtonListener
+com.umeng.update.UmengDialogButtonListener: void onClick(int)
+com.umeng.update.UmengDownloadListener
+com.umeng.update.UmengDownloadListener: void OnDownloadStart()
+com.umeng.update.UmengDownloadListener: void OnDownloadUpdate(int)
+com.umeng.update.UmengDownloadListener: void OnDownloadEnd(int,java.lang.String)
+com.umeng.update.UmengUpdateAgent
+com.umeng.update.UmengUpdateAgent: com.umeng.update.UmengUpdateListener a
+com.umeng.update.UmengUpdateAgent: com.umeng.update.UmengDialogButtonListener b
+com.umeng.update.UmengUpdateAgent: com.umeng.update.UmengDownloadListener c
+com.umeng.update.UmengUpdateAgent: android.content.Context d
+com.umeng.update.UmengUpdateAgent: com.umeng.update.c e
+com.umeng.update.UmengUpdateAgent: android.os.Handler f
+com.umeng.update.UmengUpdateAgent: void <clinit>()
+com.umeng.update.UmengUpdateAgent: UmengUpdateAgent()
+com.umeng.update.UmengUpdateAgent: void setDefault()
+com.umeng.update.UmengUpdateAgent: void setUpdateCheckConfig(boolean)
+com.umeng.update.UmengUpdateAgent: void setUpdateOnlyWifi(boolean)
+com.umeng.update.UmengUpdateAgent: void setUpdateAutoPopup(boolean)
+com.umeng.update.UmengUpdateAgent: void setUpdateUIStyle(int)
+com.umeng.update.UmengUpdateAgent: void setDeltaUpdate(boolean)
+com.umeng.update.UmengUpdateAgent: void setAppkey(java.lang.String)
+com.umeng.update.UmengUpdateAgent: void setChannel(java.lang.String)
+com.umeng.update.UmengUpdateAgent: void setRichNotification(boolean)
+com.umeng.update.UmengUpdateAgent: void setUpdateListener(com.umeng.update.UmengUpdateListener)
+com.umeng.update.UmengUpdateAgent: void setDialogListener(com.umeng.update.UmengDialogButtonListener)
+com.umeng.update.UmengUpdateAgent: void setDownloadListener(com.umeng.update.UmengDownloadListener)
+com.umeng.update.UmengUpdateAgent: void b(int,com.umeng.update.UpdateResponse)
+com.umeng.update.UmengUpdateAgent: void silentUpdate(android.content.Context)
+com.umeng.update.UmengUpdateAgent: void forceUpdate(android.content.Context)
+com.umeng.update.UmengUpdateAgent: void update(android.content.Context)
+com.umeng.update.UmengUpdateAgent: void update(android.content.Context,java.lang.String,java.lang.String)
+com.umeng.update.UmengUpdateAgent: void b(android.content.Context)
+com.umeng.update.UmengUpdateAgent: void b(android.content.Context,com.umeng.update.UpdateResponse,int)
+com.umeng.update.UmengUpdateAgent: void showUpdateDialog(android.content.Context,com.umeng.update.UpdateResponse)
+com.umeng.update.UmengUpdateAgent: void showUpdateNotification(android.content.Context,com.umeng.update.UpdateResponse)
+com.umeng.update.UmengUpdateAgent: java.io.File downloadedFile(android.content.Context,com.umeng.update.UpdateResponse)
+com.umeng.update.UmengUpdateAgent: boolean isIgnore(android.content.Context,com.umeng.update.UpdateResponse)
+com.umeng.update.UmengUpdateAgent: void ignoreUpdate(android.content.Context,com.umeng.update.UpdateResponse)
+com.umeng.update.UmengUpdateAgent: void a(int,android.content.Context,com.umeng.update.UpdateResponse,java.io.File)
+com.umeng.update.UmengUpdateAgent: void a(android.content.Context,com.umeng.update.UpdateResponse,java.io.File)
+com.umeng.update.UmengUpdateAgent: void startInstall(android.content.Context,java.io.File)
+com.umeng.update.UmengUpdateAgent: void startDownload(android.content.Context,com.umeng.update.UpdateResponse)
+com.umeng.update.UmengUpdateAgent: boolean c(android.content.Context)
+com.umeng.update.UmengUpdateAgent: void a(int,com.umeng.update.UpdateResponse)
+com.umeng.update.UmengUpdateAgent: android.content.Context a()
+com.umeng.update.UmengUpdateAgent: void a(android.content.Context,com.umeng.update.UpdateResponse,int)
+com.umeng.update.UmengUpdateAgent: void a(android.content.Context)
+com.umeng.update.UmengUpdateAgent: com.umeng.update.UmengUpdateListener b()
+com.umeng.update.UmengUpdateAgent$1
+com.umeng.update.UmengUpdateAgent$1: UmengUpdateAgent$1(android.os.Looper)
+com.umeng.update.UmengUpdateAgent$1: void handleMessage(android.os.Message)
+com.umeng.update.UmengUpdateAgent$2
+com.umeng.update.UmengUpdateAgent$2: android.content.Context a
+com.umeng.update.UmengUpdateAgent$2: UmengUpdateAgent$2(android.content.Context)
+com.umeng.update.UmengUpdateAgent$2: void run()
+com.umeng.update.UmengUpdateAgent$3
+com.umeng.update.UmengUpdateAgent$3: android.content.Context a
+com.umeng.update.UmengUpdateAgent$3: UmengUpdateAgent$3(android.content.Context)
+com.umeng.update.UmengUpdateAgent$3: void run()
+com.umeng.update.UmengUpdateAgent$4
+com.umeng.update.UmengUpdateAgent$4: android.content.Context a
+com.umeng.update.UmengUpdateAgent$4: UmengUpdateAgent$4(android.content.Context)
+com.umeng.update.UmengUpdateAgent$4: void run()
+com.umeng.update.UmengUpdateAgent$5
+com.umeng.update.UmengUpdateAgent$5: android.content.Context a
+com.umeng.update.UmengUpdateAgent$5: UmengUpdateAgent$5(android.content.Context)
+com.umeng.update.UmengUpdateAgent$5: void run()
+com.umeng.update.UmengUpdateAgent$6
+com.umeng.update.UmengUpdateAgent$6: android.content.Context a
+com.umeng.update.UmengUpdateAgent$6: UmengUpdateAgent$6(android.content.Context)
+com.umeng.update.UmengUpdateAgent$6: void run()
+com.umeng.update.UmengUpdateAgent$7
+com.umeng.update.UmengUpdateAgent$7: android.content.Context a
+com.umeng.update.UmengUpdateAgent$7: UmengUpdateAgent$7(android.content.Context)
+com.umeng.update.UmengUpdateAgent$7: void run()
+com.umeng.update.UmengUpdateAgent$a
+com.umeng.update.UmengUpdateAgent$a: android.content.Context a
+com.umeng.update.UmengUpdateAgent$a: UmengUpdateAgent$a(android.content.Context)
+com.umeng.update.UmengUpdateAgent$a: void run()
+com.umeng.update.UmengUpdateListener
+com.umeng.update.UmengUpdateListener: void onUpdateReturned(int,com.umeng.update.UpdateResponse)
+com.umeng.update.UpdateConfig
+com.umeng.update.UpdateConfig: java.lang.String a
+com.umeng.update.UpdateConfig: java.lang.String b
+com.umeng.update.UpdateConfig: java.lang.String c
+com.umeng.update.UpdateConfig: java.lang.String d
+com.umeng.update.UpdateConfig: java.lang.String e
+com.umeng.update.UpdateConfig: java.lang.String f
+com.umeng.update.UpdateConfig: java.lang.String g
+com.umeng.update.UpdateConfig: java.lang.String h
+com.umeng.update.UpdateConfig: java.lang.String i
+com.umeng.update.UpdateConfig: java.lang.String j
+com.umeng.update.UpdateConfig: java.lang.String k
+com.umeng.update.UpdateConfig: java.lang.String l
+com.umeng.update.UpdateConfig: java.lang.String m
+com.umeng.update.UpdateConfig: boolean n
+com.umeng.update.UpdateConfig: boolean o
+com.umeng.update.UpdateConfig: boolean p
+com.umeng.update.UpdateConfig: boolean q
+com.umeng.update.UpdateConfig: boolean r
+com.umeng.update.UpdateConfig: boolean s
+com.umeng.update.UpdateConfig: boolean t
+com.umeng.update.UpdateConfig: int u
+com.umeng.update.UpdateConfig: void <clinit>()
+com.umeng.update.UpdateConfig: UpdateConfig()
+com.umeng.update.UpdateConfig: void setAppkey(java.lang.String)
+com.umeng.update.UpdateConfig: void setChannel(java.lang.String)
+com.umeng.update.UpdateConfig: void setDebug(boolean)
+com.umeng.update.UpdateConfig: java.lang.String getAppkey(android.content.Context)
+com.umeng.update.UpdateConfig: java.lang.String getChannel(android.content.Context)
+com.umeng.update.UpdateConfig: void saveIgnoreMd5(android.content.Context,java.lang.String)
+com.umeng.update.UpdateConfig: java.lang.String getIgnoreMd5(android.content.Context)
+com.umeng.update.UpdateConfig: boolean isUpdateOnlyWifi()
+com.umeng.update.UpdateConfig: void setUpdateOnlyWifi(boolean)
+com.umeng.update.UpdateConfig: boolean isUpdateAutoPopup()
+com.umeng.update.UpdateConfig: void setUpdateAutoPopup(boolean)
+com.umeng.update.UpdateConfig: boolean isUpdateForce()
+com.umeng.update.UpdateConfig: void setUpdateForce(boolean)
+com.umeng.update.UpdateConfig: boolean isDeltaUpdate()
+com.umeng.update.UpdateConfig: void setDeltaUpdate(boolean)
+com.umeng.update.UpdateConfig: boolean isSilentDownload()
+com.umeng.update.UpdateConfig: void setSilentDownload(boolean)
+com.umeng.update.UpdateConfig: int getStyle()
+com.umeng.update.UpdateConfig: void setStyle(int)
+com.umeng.update.UpdateConfig: boolean isUpdateCheck()
+com.umeng.update.UpdateConfig: void setUpdateCheck(boolean)
+com.umeng.update.UpdateConfig: boolean isRichNotification()
+com.umeng.update.UpdateConfig: void setRichNotification(boolean)
+com.umeng.update.UpdateDialogActivity
+com.umeng.update.UpdateDialogActivity: int a
+com.umeng.update.UpdateDialogActivity: com.umeng.update.UpdateResponse b
+com.umeng.update.UpdateDialogActivity: boolean c
+com.umeng.update.UpdateDialogActivity: java.io.File d
+com.umeng.update.UpdateDialogActivity: UpdateDialogActivity()
+com.umeng.update.UpdateDialogActivity: void onCreate(android.os.Bundle)
+com.umeng.update.UpdateDialogActivity: void onDestroy()
+com.umeng.update.UpdateDialogActivity$1
+com.umeng.update.UpdateDialogActivity$1: com.umeng.update.UpdateDialogActivity a
+com.umeng.update.UpdateDialogActivity$1: int b
+com.umeng.update.UpdateDialogActivity$1: int c
+com.umeng.update.UpdateDialogActivity$1: UpdateDialogActivity$1(com.umeng.update.UpdateDialogActivity,int,int)
+com.umeng.update.UpdateDialogActivity$1: void onClick(android.view.View)
+com.umeng.update.UpdateDialogActivity$2
+com.umeng.update.UpdateDialogActivity$2: com.umeng.update.UpdateDialogActivity a
+com.umeng.update.UpdateDialogActivity$2: UpdateDialogActivity$2(com.umeng.update.UpdateDialogActivity)
+com.umeng.update.UpdateDialogActivity$2: void onCheckedChanged(android.widget.CompoundButton,boolean)
+com.umeng.update.UpdateResponse
+com.umeng.update.UpdateResponse: long a
+com.umeng.update.UpdateResponse: boolean hasUpdate
+com.umeng.update.UpdateResponse: java.lang.String updateLog
+com.umeng.update.UpdateResponse: java.lang.String version
+com.umeng.update.UpdateResponse: java.lang.String path
+com.umeng.update.UpdateResponse: java.lang.String origin
+com.umeng.update.UpdateResponse: java.lang.String proto_ver
+com.umeng.update.UpdateResponse: java.lang.String new_md5
+com.umeng.update.UpdateResponse: java.lang.String size
+com.umeng.update.UpdateResponse: java.lang.String target_size
+com.umeng.update.UpdateResponse: boolean delta
+com.umeng.update.UpdateResponse: java.lang.String patch_md5
+com.umeng.update.UpdateResponse: UpdateResponse(org.json.JSONObject)
+com.umeng.update.UpdateResponse: void a(org.json.JSONObject)
+com.umeng.update.UpdateResponse: java.lang.String a(android.content.Context,boolean)
+com.umeng.update.UpdateStatus
+com.umeng.update.UpdateStatus: int Yes
+com.umeng.update.UpdateStatus: int No
+com.umeng.update.UpdateStatus: int NoneWifi
+com.umeng.update.UpdateStatus: int Timeout
+com.umeng.update.UpdateStatus: int IsUpdate
+com.umeng.update.UpdateStatus: int Update
+com.umeng.update.UpdateStatus: int NotNow
+com.umeng.update.UpdateStatus: int Ignore
+com.umeng.update.UpdateStatus: int STYLE_DIALOG
+com.umeng.update.UpdateStatus: int STYLE_NOTIFICATION
+com.umeng.update.UpdateStatus: int DOWNLOAD_COMPLETE_FAIL
+com.umeng.update.UpdateStatus: int DOWNLOAD_COMPLETE_SUCCESS
+com.umeng.update.UpdateStatus: int DOWNLOAD_NEED_RESTART
+com.umeng.update.UpdateStatus: UpdateStatus()
+com.umeng.update.a
+com.umeng.update.a: java.lang.String a
+com.umeng.update.a: java.lang.String b
+com.umeng.update.a: java.lang.String c
+com.umeng.update.a: java.lang.String d
+com.umeng.update.a: java.lang.String e
+com.umeng.update.a: java.lang.String f
+com.umeng.update.a: java.lang.String g
+com.umeng.update.a: java.lang.String h
+com.umeng.update.a: java.lang.String i
+com.umeng.update.a: java.lang.String j
+com.umeng.update.a: java.lang.String k
+com.umeng.update.a: java.lang.String l
+com.umeng.update.a: java.lang.String m
+com.umeng.update.a: java.lang.String n
+com.umeng.update.a: void <clinit>()
+com.umeng.update.a: a()
+com.umeng.update.b
+com.umeng.update.b: android.content.Context a
+com.umeng.update.b: java.lang.String[] b
+com.umeng.update.b: java.lang.String c
+com.umeng.update.b: void <clinit>()
+com.umeng.update.b: b(android.content.Context)
+com.umeng.update.b: boolean a()
+com.umeng.update.b: com.umeng.update.UpdateResponse b()
+com.umeng.update.c
+com.umeng.update.c: java.lang.String a
+com.umeng.update.c: java.lang.String b
+com.umeng.update.c: com.umeng.update.UmengDownloadListener c
+com.umeng.update.c: java.lang.String d
+com.umeng.update.c: java.lang.String e
+com.umeng.update.c: java.lang.String f
+com.umeng.update.c: java.lang.String g
+com.umeng.update.c: android.content.Context h
+com.umeng.update.c: java.lang.String i
+com.umeng.update.c: com.umeng.update.net.a j
+com.umeng.update.c: boolean k
+com.umeng.update.c: c()
+com.umeng.update.c: void a(android.content.Context,java.lang.String,java.lang.String,java.lang.String,java.lang.String,com.umeng.update.UmengDownloadListener)
+com.umeng.update.c: boolean a()
+com.umeng.update.c: void b()
+com.umeng.update.c: void c()
+com.umeng.update.c: void a(com.umeng.update.net.a)
+com.umeng.update.c: void d()
+com.umeng.update.c: void a(int)
+com.umeng.update.c: void a(int,int,java.lang.String)
+com.umeng.update.c: void b(int)
+com.umeng.update.c: void a(android.content.Context,com.umeng.update.UpdateResponse,boolean,java.io.File)
+com.umeng.update.c: com.umeng.update.c$a b(android.content.Context,com.umeng.update.UpdateResponse,boolean,java.io.File)
+com.umeng.update.c$a
+com.umeng.update.c$a: java.lang.String e
+com.umeng.update.c$a: java.lang.String f
+com.umeng.update.c$a: com.umeng.update.c a
+com.umeng.update.c$a: c$a(com.umeng.update.c,android.content.Context)
+com.umeng.update.c$a: com.umeng.update.c$a a(java.lang.CharSequence)
+com.umeng.update.c$a: com.umeng.update.c$a b(java.lang.CharSequence)
+com.umeng.update.c$a: com.umeng.update.c$a c(java.lang.CharSequence)
+com.umeng.update.c$a: android.app.Notification a()
+com.umeng.update.d
+com.umeng.update.d: java.lang.String d
+com.umeng.update.d: java.lang.String e
+com.umeng.update.d: org.json.JSONObject f
+com.umeng.update.d: d(android.content.Context)
+com.umeng.update.d: org.json.JSONObject a(android.content.Context)
+com.umeng.update.d: org.json.JSONObject a()
+com.umeng.update.d: java.lang.String b()
+com.umeng.update.net.DownloadingService
+com.umeng.update.net.DownloadingService: java.lang.String t
+com.umeng.update.net.DownloadingService: android.app.NotificationManager u
+com.umeng.update.net.DownloadingService: com.umeng.update.net.c v
+com.umeng.update.net.DownloadingService: int a
+com.umeng.update.net.DownloadingService: int b
+com.umeng.update.net.DownloadingService: int c
+com.umeng.update.net.DownloadingService: int d
+com.umeng.update.net.DownloadingService: int e
+com.umeng.update.net.DownloadingService: int f
+com.umeng.update.net.DownloadingService: int g
+com.umeng.update.net.DownloadingService: int h
+com.umeng.update.net.DownloadingService: int i
+com.umeng.update.net.DownloadingService: int j
+com.umeng.update.net.DownloadingService: int k
+com.umeng.update.net.DownloadingService: int l
+com.umeng.update.net.DownloadingService: int m
+com.umeng.update.net.DownloadingService: int n
+com.umeng.update.net.DownloadingService: long w
+com.umeng.update.net.DownloadingService: long x
+com.umeng.update.net.DownloadingService: long y
+com.umeng.update.net.DownloadingService: int o
+com.umeng.update.net.DownloadingService: java.lang.String p
+com.umeng.update.net.DownloadingService: int z
+com.umeng.update.net.DownloadingService: android.content.Context A
+com.umeng.update.net.DownloadingService: android.os.Handler B
+com.umeng.update.net.DownloadingService: com.umeng.update.net.DownloadingService$a q
+com.umeng.update.net.DownloadingService: boolean r
+com.umeng.update.net.DownloadingService: long C
+com.umeng.update.net.DownloadingService: long D
+com.umeng.update.net.DownloadingService: java.util.Map E
+com.umeng.update.net.DownloadingService: android.util.SparseArray F
+com.umeng.update.net.DownloadingService: android.os.Messenger s
+com.umeng.update.net.DownloadingService: com.umeng.update.net.e G
+com.umeng.update.net.DownloadingService: boolean H
+com.umeng.update.net.DownloadingService: java.lang.Boolean I
+com.umeng.update.net.DownloadingService: void <clinit>()
+com.umeng.update.net.DownloadingService: DownloadingService()
+com.umeng.update.net.DownloadingService: android.os.IBinder onBind(android.content.Intent)
+com.umeng.update.net.DownloadingService: int onStartCommand(android.content.Intent,int,int)
+com.umeng.update.net.DownloadingService: void onCreate()
+com.umeng.update.net.DownloadingService: void d()
+com.umeng.update.net.DownloadingService: void a(com.umeng.update.net.a$a)
+com.umeng.update.net.DownloadingService: void a(java.lang.String)
+com.umeng.update.net.DownloadingService: void onDestroy()
+com.umeng.update.net.DownloadingService: void e()
+com.umeng.update.net.DownloadingService: java.lang.String a()
+com.umeng.update.net.DownloadingService: com.umeng.update.net.c a(com.umeng.update.net.DownloadingService)
+com.umeng.update.net.DownloadingService: android.util.SparseArray b()
+com.umeng.update.net.DownloadingService: android.content.Context b(com.umeng.update.net.DownloadingService)
+com.umeng.update.net.DownloadingService: java.util.Map c()
+com.umeng.update.net.DownloadingService: void a(com.umeng.update.net.DownloadingService,com.umeng.update.net.a$a)
+com.umeng.update.net.DownloadingService: android.app.NotificationManager c(com.umeng.update.net.DownloadingService)
+com.umeng.update.net.DownloadingService: android.os.Handler d(com.umeng.update.net.DownloadingService)
+com.umeng.update.net.DownloadingService: void a(com.umeng.update.net.DownloadingService,java.lang.String)
+com.umeng.update.net.DownloadingService: void a(com.umeng.update.net.DownloadingService,android.app.NotificationManager)
+com.umeng.update.net.DownloadingService: void a(java.lang.Boolean)
+com.umeng.update.net.DownloadingService$1
+com.umeng.update.net.DownloadingService$1: com.umeng.update.net.DownloadingService a
+com.umeng.update.net.DownloadingService$1: DownloadingService$1(com.umeng.update.net.DownloadingService)
+com.umeng.update.net.DownloadingService$1: void handleMessage(android.os.Message)
+com.umeng.update.net.DownloadingService$2
+com.umeng.update.net.DownloadingService$2: android.util.SparseArray a
+com.umeng.update.net.DownloadingService$2: com.umeng.update.net.DownloadingService b
+com.umeng.update.net.DownloadingService$2: DownloadingService$2(com.umeng.update.net.DownloadingService)
+com.umeng.update.net.DownloadingService$2: void a(int)
+com.umeng.update.net.DownloadingService$2: void a(int,int)
+com.umeng.update.net.DownloadingService$2: void a(int,java.lang.String)
+com.umeng.update.net.DownloadingService$2: void a(int,java.lang.Exception)
+com.umeng.update.net.DownloadingService$3
+com.umeng.update.net.DownloadingService$3: com.umeng.update.net.DownloadingService a
+com.umeng.update.net.DownloadingService$3: java.lang.String b
+com.umeng.update.net.DownloadingService$3: DownloadingService$3(com.umeng.update.net.DownloadingService,java.lang.String)
+com.umeng.update.net.DownloadingService$3: void run()
+com.umeng.update.net.DownloadingService$4
+com.umeng.update.net.DownloadingService$4: com.umeng.update.net.DownloadingService a
+com.umeng.update.net.DownloadingService$4: DownloadingService$4(com.umeng.update.net.DownloadingService)
+com.umeng.update.net.DownloadingService$4: void run()
+com.umeng.update.net.DownloadingService$a
+com.umeng.update.net.DownloadingService$a: void a(int)
+com.umeng.update.net.DownloadingService$a: void a(int,int)
+com.umeng.update.net.DownloadingService$a: void a(int,java.lang.String)
+com.umeng.update.net.DownloadingService$a: void a(int,java.lang.Exception)
+com.umeng.update.net.DownloadingService$b
+com.umeng.update.net.DownloadingService$b: android.content.Context b
+com.umeng.update.net.DownloadingService$b: boolean c
+com.umeng.update.net.DownloadingService$b: java.io.File d
+com.umeng.update.net.DownloadingService$b: int e
+com.umeng.update.net.DownloadingService$b: long f
+com.umeng.update.net.DownloadingService$b: long g
+com.umeng.update.net.DownloadingService$b: int h
+com.umeng.update.net.DownloadingService$b: int i
+com.umeng.update.net.DownloadingService$b: com.umeng.update.net.DownloadingService$a j
+com.umeng.update.net.DownloadingService$b: com.umeng.update.net.a$a k
+com.umeng.update.net.DownloadingService$b: com.umeng.update.net.DownloadingService a
+com.umeng.update.net.DownloadingService$b: DownloadingService$b(com.umeng.update.net.DownloadingService,android.content.Context,com.umeng.update.net.a$a,int,int,com.umeng.update.net.DownloadingService$a)
+com.umeng.update.net.DownloadingService$b: void run()
+com.umeng.update.net.DownloadingService$b: void a(int)
+com.umeng.update.net.DownloadingService$b: void a(boolean)
+com.umeng.update.net.DownloadingService$b: void a()
+com.umeng.update.net.DownloadingService$b: void b(int)
+com.umeng.update.net.DownloadingService$b: java.net.HttpURLConnection a(java.net.URL,java.io.File)
+com.umeng.update.net.DownloadingService$b: java.lang.String a(com.umeng.update.net.a$a)
+com.umeng.update.net.DownloadingService$b: void b()
+com.umeng.update.net.DownloadingService$b: void a(java.io.File,java.lang.String)
+com.umeng.update.net.DownloadingService$b: void a(java.lang.Exception)
+com.umeng.update.net.DownloadingService$b: android.content.Context a(com.umeng.update.net.DownloadingService$b)
+com.umeng.update.net.DownloadingService$b: com.umeng.update.net.DownloadingService b(com.umeng.update.net.DownloadingService$b)
+com.umeng.update.net.DownloadingService$b$1
+com.umeng.update.net.DownloadingService$b$1: com.umeng.update.net.DownloadingService$b a
+com.umeng.update.net.DownloadingService$b$1: DownloadingService$b$1(com.umeng.update.net.DownloadingService$b)
+com.umeng.update.net.DownloadingService$b$1: void run()
+com.umeng.update.net.DownloadingService$c
+com.umeng.update.net.DownloadingService$c: com.umeng.update.net.DownloadingService a
+com.umeng.update.net.DownloadingService$c: DownloadingService$c(com.umeng.update.net.DownloadingService)
+com.umeng.update.net.DownloadingService$c: void handleMessage(android.os.Message)
+com.umeng.update.net.a
+com.umeng.update.net.a: java.lang.String b
+com.umeng.update.net.a: android.content.Context c
+com.umeng.update.net.a: com.umeng.update.net.d d
+com.umeng.update.net.a: android.os.Messenger e
+com.umeng.update.net.a: java.lang.String f
+com.umeng.update.net.a: java.lang.String g
+com.umeng.update.net.a: java.lang.String h
+com.umeng.update.net.a: java.lang.String i
+com.umeng.update.net.a: java.lang.String j
+com.umeng.update.net.a: java.lang.String[] k
+com.umeng.update.net.a: boolean l
+com.umeng.update.net.a: boolean m
+com.umeng.update.net.a: boolean n
+com.umeng.update.net.a: android.os.Messenger a
+com.umeng.update.net.a: android.content.ServiceConnection o
+com.umeng.update.net.a: void <clinit>()
+com.umeng.update.net.a: void a(java.lang.String)
+com.umeng.update.net.a: void b(java.lang.String)
+com.umeng.update.net.a: void a(java.lang.String[])
+com.umeng.update.net.a: void a(boolean)
+com.umeng.update.net.a: void b(boolean)
+com.umeng.update.net.a: void c(boolean)
+com.umeng.update.net.a: a(android.content.Context,java.lang.String,java.lang.String,java.lang.String,com.umeng.update.net.d)
+com.umeng.update.net.a: void a()
+com.umeng.update.net.a: java.lang.String b()
+com.umeng.update.net.a: void a(com.umeng.update.net.a,android.os.Messenger)
+com.umeng.update.net.a: java.lang.String a(com.umeng.update.net.a)
+com.umeng.update.net.a: java.lang.String b(com.umeng.update.net.a)
+com.umeng.update.net.a: java.lang.String c(com.umeng.update.net.a)
+com.umeng.update.net.a: java.lang.String d(com.umeng.update.net.a)
+com.umeng.update.net.a: java.lang.String e(com.umeng.update.net.a)
+com.umeng.update.net.a: java.lang.String[] f(com.umeng.update.net.a)
+com.umeng.update.net.a: boolean g(com.umeng.update.net.a)
+com.umeng.update.net.a: boolean h(com.umeng.update.net.a)
+com.umeng.update.net.a: boolean i(com.umeng.update.net.a)
+com.umeng.update.net.a: android.os.Messenger j(com.umeng.update.net.a)
+com.umeng.update.net.a: com.umeng.update.net.d k(com.umeng.update.net.a)
+com.umeng.update.net.a: android.content.Context l(com.umeng.update.net.a)
+com.umeng.update.net.a: android.content.ServiceConnection m(com.umeng.update.net.a)
+com.umeng.update.net.a$1
+com.umeng.update.net.a$1: com.umeng.update.net.a a
+com.umeng.update.net.a$1: a$1(com.umeng.update.net.a)
+com.umeng.update.net.a$1: void onServiceConnected(android.content.ComponentName,android.os.IBinder)
+com.umeng.update.net.a$1: void onServiceDisconnected(android.content.ComponentName)
+com.umeng.update.net.a$a
+com.umeng.update.net.a$a: java.lang.String a
+com.umeng.update.net.a$a: java.lang.String b
+com.umeng.update.net.a$a: java.lang.String c
+com.umeng.update.net.a$a: java.lang.String d
+com.umeng.update.net.a$a: java.lang.String e
+com.umeng.update.net.a$a: java.lang.String[] f
+com.umeng.update.net.a$a: boolean g
+com.umeng.update.net.a$a: boolean h
+com.umeng.update.net.a$a: boolean i
+com.umeng.update.net.a$a: a$a(java.lang.String,java.lang.String,java.lang.String)
+com.umeng.update.net.a$a: android.os.Bundle a()
+com.umeng.update.net.a$a: com.umeng.update.net.a$a a(android.os.Bundle)
+com.umeng.update.net.a$b
+com.umeng.update.net.a$b: com.umeng.update.net.a a
+com.umeng.update.net.a$b: a$b(com.umeng.update.net.a)
+com.umeng.update.net.a$b: void handleMessage(android.os.Message)
+com.umeng.update.net.b
+com.umeng.update.net.b: java.lang.String a
+com.umeng.update.net.b: java.lang.String b
+com.umeng.update.net.b: java.lang.String c
+com.umeng.update.net.b: java.lang.String d
+com.umeng.update.net.b: java.lang.String e
+com.umeng.update.net.b: java.lang.String f
+com.umeng.update.net.b: java.lang.String g
+com.umeng.update.net.b: java.lang.String h
+com.umeng.update.net.b: android.content.Context i
+com.umeng.update.net.b: java.lang.String j
+com.umeng.update.net.b: com.umeng.update.net.b$a k
+com.umeng.update.net.b: void <clinit>()
+com.umeng.update.net.b: b()
+com.umeng.update.net.b: com.umeng.update.net.b a(android.content.Context)
+com.umeng.update.net.b: boolean a(java.lang.String,java.lang.String)
+com.umeng.update.net.b: void a(java.lang.String,java.lang.String,int)
+com.umeng.update.net.b: void a(java.lang.String,java.lang.String,java.lang.String)
+com.umeng.update.net.b: int b(java.lang.String,java.lang.String)
+com.umeng.update.net.b: java.lang.String c(java.lang.String,java.lang.String)
+com.umeng.update.net.b: java.util.Date d(java.lang.String,java.lang.String)
+com.umeng.update.net.b: void e(java.lang.String,java.lang.String)
+com.umeng.update.net.b: java.util.List a(java.lang.String)
+com.umeng.update.net.b: void a(int)
+com.umeng.update.net.b: void finalize()
+com.umeng.update.net.b: b(com.umeng.update.net.b)
+com.umeng.update.net.b: java.lang.String a()
+com.umeng.update.net.b$a
+com.umeng.update.net.b$a: int b
+com.umeng.update.net.b$a: java.lang.String c
+com.umeng.update.net.b$a: com.umeng.update.net.b a
+com.umeng.update.net.b$a: b$a(com.umeng.update.net.b,android.content.Context)
+com.umeng.update.net.b$a: void onCreate(android.database.sqlite.SQLiteDatabase)
+com.umeng.update.net.b$a: void onUpgrade(android.database.sqlite.SQLiteDatabase,int,int)
+com.umeng.update.net.b$b
+com.umeng.update.net.b$b: com.umeng.update.net.b a
+com.umeng.update.net.b$b: void <clinit>()
+com.umeng.update.net.b$b: b$b()
+com.umeng.update.net.c
+com.umeng.update.net.c: java.lang.String e
+com.umeng.update.net.c: int a
+com.umeng.update.net.c: int b
+com.umeng.update.net.c: int c
+com.umeng.update.net.c: int d
+com.umeng.update.net.c: android.util.SparseArray f
+com.umeng.update.net.c: java.util.Map g
+com.umeng.update.net.c: com.umeng.update.net.e h
+com.umeng.update.net.c: void <clinit>()
+com.umeng.update.net.c: c(android.util.SparseArray,java.util.Map,com.umeng.update.net.e)
+com.umeng.update.net.c: int a(com.umeng.update.net.a$a)
+com.umeng.update.net.c: com.umeng.update.net.c$a a(android.content.Context,com.umeng.update.net.a$a,int,int)
+com.umeng.update.net.c: void a(android.content.Context,com.umeng.update.net.c$a,int,int)
+com.umeng.update.net.c: boolean a(android.content.Context)
+com.umeng.update.net.c: boolean a(com.umeng.update.net.a$a,boolean,android.os.Messenger)
+com.umeng.update.net.c: int b(com.umeng.update.net.a$a)
+com.umeng.update.net.c: void a(android.content.Context,int)
+com.umeng.update.net.c: void b(android.content.Context,int)
+com.umeng.update.net.c: void a(com.umeng.update.net.a$a,long,long,long)
+com.umeng.update.net.c: void a(java.util.Map,boolean,java.lang.String[])
+com.umeng.update.net.c: boolean a(com.umeng.update.net.DownloadingService,android.content.Intent)
+com.umeng.update.net.c: java.lang.String a()
+com.umeng.update.net.c: java.util.Map a(com.umeng.update.net.c)
+com.umeng.update.net.c$1
+com.umeng.update.net.c$1: com.umeng.update.net.c a
+com.umeng.update.net.c$1: java.lang.String[] b
+com.umeng.update.net.c$1: boolean c
+com.umeng.update.net.c$1: java.util.Map d
+com.umeng.update.net.c$1: c$1(com.umeng.update.net.c,java.lang.String[],boolean,java.util.Map)
+com.umeng.update.net.c$1: void run()
+com.umeng.update.net.c$a
+com.umeng.update.net.c$a: c$a(android.content.Context)
+com.umeng.update.net.c$a: com.umeng.update.net.c$a a(android.widget.RemoteViews)
+com.umeng.update.net.c$a: com.umeng.update.net.c$a a(java.lang.CharSequence)
+com.umeng.update.net.c$a: com.umeng.update.net.c$a b(java.lang.CharSequence)
+com.umeng.update.net.c$a: com.umeng.update.net.c$a a(int,int,boolean)
+com.umeng.update.net.c$a: com.umeng.update.net.c$a a()
+com.umeng.update.net.c$a: com.umeng.update.net.c$a a(android.app.PendingIntent,android.app.PendingIntent)
+com.umeng.update.net.c$a: com.umeng.update.net.c$a b()
+com.umeng.update.net.c$a: com.umeng.update.net.c$a c()
+com.umeng.update.net.c$a: android.app.Notification d()
+com.umeng.update.net.c$a: void a(int,java.lang.String,android.app.PendingIntent)
+com.umeng.update.net.c$b
+com.umeng.update.net.c$b: com.umeng.update.net.DownloadingService$b a
+com.umeng.update.net.c$b: com.umeng.update.net.c$a b
+com.umeng.update.net.c$b: int c
+com.umeng.update.net.c$b: int d
+com.umeng.update.net.c$b: com.umeng.update.net.a$a e
+com.umeng.update.net.c$b: long[] f
+com.umeng.update.net.c$b: c$b(com.umeng.update.net.a$a,int)
+com.umeng.update.net.c$b: void a(android.util.SparseArray)
+com.umeng.update.net.c$b: void b(android.util.SparseArray)
+com.umeng.update.net.c$c
+com.umeng.update.net.c$c: int a
+com.umeng.update.net.c$c: java.lang.String b
+com.umeng.update.net.c$c: com.umeng.update.net.a$a d
+com.umeng.update.net.c$c: android.content.Context e
+com.umeng.update.net.c$c: android.app.NotificationManager f
+com.umeng.update.net.c$c: com.umeng.update.net.c c
+com.umeng.update.net.c$c: c$c(com.umeng.update.net.c,android.content.Context,int,com.umeng.update.net.a$a,java.lang.String)
+com.umeng.update.net.c$c: void onPreExecute()
+com.umeng.update.net.c$c: java.lang.Integer a(java.lang.String[])
+com.umeng.update.net.c$c: void a(java.lang.Integer)
+com.umeng.update.net.c$c: void onPostExecute(java.lang.Object)
+com.umeng.update.net.c$c: java.lang.Object doInBackground(java.lang.Object[])
+com.umeng.update.net.d
+com.umeng.update.net.d: void d()
+com.umeng.update.net.d: void a(int)
+com.umeng.update.net.d: void a(int,int,java.lang.String)
+com.umeng.update.net.d: void b(int)
+com.umeng.update.net.e
+com.umeng.update.net.e: java.lang.String a
+com.umeng.update.net.e: java.lang.String b
+com.umeng.update.net.e: android.content.Context c
+com.umeng.update.net.e: void <clinit>()
+com.umeng.update.net.e: e(android.content.Context)
+com.umeng.update.net.e: void a(int)
+com.umeng.update.net.e: java.util.List a()
+com.umeng.update.net.e: boolean b()
+com.umeng.update.net.e: void b(int)
+com.umeng.update.net.f
+com.umeng.update.net.f: java.lang.String a
+com.umeng.update.net.f: java.lang.String b
+com.umeng.update.net.f: java.lang.String c
+com.umeng.update.net.f: java.lang.String d
+com.umeng.update.net.f: java.lang.String e
+com.umeng.update.net.f: f()
+com.umeng.update.net.f: java.lang.String a(int,java.lang.String)
+com.umeng.update.net.f: int a(com.umeng.update.net.a$a)
+com.umeng.update.net.f: android.app.PendingIntent a(android.content.Context,java.lang.String)
+com.umeng.update.net.f: android.app.PendingIntent b(android.content.Context,java.lang.String)
+com.umeng.update.net.g
+com.umeng.update.net.g: java.lang.String a
+com.umeng.update.net.g: void <clinit>()
+com.umeng.update.net.g: g()
+com.umeng.update.net.g: u.upd.f$a a(u.upd.e)
+com.umeng.update.net.g: void a(u.upd.e,com.umeng.update.net.g$a)
+com.umeng.update.net.g$a
+com.umeng.update.net.g$a: void a()
+com.umeng.update.net.g$a: void a(u.upd.f$a)
+com.umeng.update.net.g$b
+com.umeng.update.net.g$b: u.upd.e b
+com.umeng.update.net.g$b: com.umeng.update.net.g$a c
+com.umeng.update.net.g$b: com.umeng.update.net.g a
+com.umeng.update.net.g$b: g$b(com.umeng.update.net.g,u.upd.e,com.umeng.update.net.g$a)
+com.umeng.update.net.g$b: void onPreExecute()
+com.umeng.update.net.g$b: void a(u.upd.f$a)
+com.umeng.update.net.g$b: u.upd.f$a a(java.lang.Integer[])
+com.umeng.update.net.g$b: void onPostExecute(java.lang.Object)
+com.umeng.update.net.g$b: java.lang.Object doInBackground(java.lang.Object[])
+com.umeng.update.net.h
+com.umeng.update.net.h: h()
+com.umeng.update.net.i
+com.umeng.update.net.i: com.umeng.update.net.i$a a
+com.umeng.update.net.i: i(org.json.JSONObject)
+com.umeng.update.net.i$a
+com.umeng.update.net.i$a: com.umeng.update.net.i$a a
+com.umeng.update.net.i$a: com.umeng.update.net.i$a b
+com.umeng.update.net.i$a: com.umeng.update.net.i$a[] c
+com.umeng.update.net.i$a: void <clinit>()
+com.umeng.update.net.i$a: i$a(java.lang.String,int)
+com.umeng.update.net.i$a: com.umeng.update.net.i$a[] values()
+com.umeng.update.net.i$a: com.umeng.update.net.i$a valueOf(java.lang.String)
+com.umeng.update.net.j
+com.umeng.update.net.j: java.lang.String b
+com.umeng.update.net.j: boolean a
+com.umeng.update.net.j: long c
+com.umeng.update.net.j: long d
+com.umeng.update.net.j: long e
+com.umeng.update.net.j: java.util.Map f
+com.umeng.update.net.j: java.lang.Thread g
+com.umeng.update.net.j: void <clinit>()
+com.umeng.update.net.j: j()
+com.umeng.update.net.j: java.lang.String b(java.lang.String)
+com.umeng.update.net.j: java.lang.String a(android.content.Context,java.lang.String)
+com.umeng.update.net.j: java.io.File a(java.lang.String,android.content.Context,boolean[])
+com.umeng.update.net.j: boolean a(java.lang.String,int,int,int)
+com.umeng.update.net.j: boolean a(java.lang.String,int)
+com.umeng.update.net.j: void a(java.io.File,long,long)
+com.umeng.update.net.j: long a(java.io.File)
+com.umeng.update.net.j: void b(java.io.File,long)
+com.umeng.update.net.j: java.io.File b(android.content.Context,java.lang.String)
+com.umeng.update.net.j: void a(android.content.Context,android.widget.ImageView,java.lang.String,boolean)
+com.umeng.update.net.j: void a(android.content.Context,android.widget.ImageView,java.lang.String,boolean,com.umeng.update.net.j$a)
+com.umeng.update.net.j: void a(android.content.Context,android.widget.ImageView,java.lang.String,boolean,com.umeng.update.net.j$a,android.view.animation.Animation)
+com.umeng.update.net.j: void a(android.content.Context,android.widget.ImageView,java.lang.String,boolean,com.umeng.update.net.j$a,android.view.animation.Animation,boolean)
+com.umeng.update.net.j: boolean a(android.widget.ImageView,java.lang.String)
+com.umeng.update.net.j: void b(android.content.Context,android.widget.ImageView,android.graphics.drawable.Drawable,boolean,com.umeng.update.net.j$a,android.view.animation.Animation,boolean,java.lang.String)
+com.umeng.update.net.j: android.graphics.drawable.Drawable c(java.lang.String)
+com.umeng.update.net.j: android.graphics.Bitmap a(android.graphics.Bitmap)
+com.umeng.update.net.j: void a(android.content.Context,android.widget.ImageView,android.graphics.drawable.Drawable,boolean,com.umeng.update.net.j$a,android.view.animation.Animation,boolean,java.lang.String)
+com.umeng.update.net.j: android.graphics.drawable.Drawable a(java.lang.String)
+com.umeng.update.net.j: java.lang.String a()
+com.umeng.update.net.j: void a(java.io.File,long)
+com.umeng.update.net.j: void a(java.lang.Thread)
+com.umeng.update.net.j$1
+com.umeng.update.net.j$1: java.io.File a
+com.umeng.update.net.j$1: long b
+com.umeng.update.net.j$1: j$1(java.io.File,long)
+com.umeng.update.net.j$1: void run()
+com.umeng.update.net.j$a
+com.umeng.update.net.j$a: void a(com.umeng.update.net.j$b)
+com.umeng.update.net.j$a: void a(u.upd.f$a)
+com.umeng.update.net.j$b
+com.umeng.update.net.j$b: com.umeng.update.net.j$b a
+com.umeng.update.net.j$b: com.umeng.update.net.j$b b
+com.umeng.update.net.j$b: com.umeng.update.net.j$b[] c
+com.umeng.update.net.j$b: void <clinit>()
+com.umeng.update.net.j$b: j$b(java.lang.String,int)
+com.umeng.update.net.j$b: com.umeng.update.net.j$b[] values()
+com.umeng.update.net.j$b: com.umeng.update.net.j$b valueOf(java.lang.String)
+com.umeng.update.net.j$c
+com.umeng.update.net.j$c: android.content.Context a
+com.umeng.update.net.j$c: java.lang.String b
+com.umeng.update.net.j$c: android.widget.ImageView c
+com.umeng.update.net.j$c: com.umeng.update.net.j$b d
+com.umeng.update.net.j$c: boolean e
+com.umeng.update.net.j$c: com.umeng.update.net.j$a f
+com.umeng.update.net.j$c: android.view.animation.Animation g
+com.umeng.update.net.j$c: boolean h
+com.umeng.update.net.j$c: java.io.File i
+com.umeng.update.net.j$c: j$c(android.content.Context,android.widget.ImageView,java.lang.String,com.umeng.update.net.j$b,java.io.File,boolean,com.umeng.update.net.j$a,android.view.animation.Animation,boolean)
+com.umeng.update.net.j$c: void onPreExecute()
+com.umeng.update.net.j$c: void a(android.graphics.drawable.Drawable)
+com.umeng.update.net.j$c: android.graphics.drawable.Drawable a(java.lang.Object[])
+com.umeng.update.net.j$c: void onPostExecute(java.lang.Object)
+com.umeng.update.net.j$c: java.lang.Object doInBackground(java.lang.Object[])
+com.umeng.update.util.DeltaUpdate
+com.umeng.update.util.DeltaUpdate: boolean a
+com.umeng.update.util.DeltaUpdate: java.lang.String b
+com.umeng.update.util.DeltaUpdate: void <clinit>()
+com.umeng.update.util.DeltaUpdate: DeltaUpdate()
+com.umeng.update.util.DeltaUpdate: boolean a()
+com.umeng.update.util.DeltaUpdate: int a(java.lang.String,java.lang.String,java.lang.String)
+com.umeng.update.util.DeltaUpdate: java.lang.String a(android.content.Context)
+com.umeng.update.util.DeltaUpdate: java.lang.String b(android.content.Context)
+com.umeng.update.util.DeltaUpdate: int bspatch(java.lang.String,java.lang.String,java.lang.String)
+com.umeng.update.util.a
+com.umeng.update.util.a: int a
+com.umeng.update.util.a: int b
+com.umeng.update.util.a: int c
+com.umeng.update.util.a: int d
+com.umeng.update.util.a: int e
+com.umeng.update.util.a: int f
+com.umeng.update.util.a: int g
+com.umeng.update.util.a: int h
+com.umeng.update.util.a: int i
+com.umeng.update.util.a: int j
+com.umeng.update.util.a: int k
+com.umeng.update.util.a: int l
+com.umeng.update.util.a: a()
+com.umeng.update.util.b
+com.umeng.update.util.b: android.content.Context b
+com.umeng.update.util.b: android.app.Notification c
+com.umeng.update.util.b: android.app.Notification$Builder d
+com.umeng.update.util.b: b(android.content.Context)
+com.umeng.update.util.b: void e()
+com.umeng.update.util.b: com.umeng.update.util.b b(android.widget.RemoteViews)
+com.umeng.update.util.b: com.umeng.update.util.b a(android.app.PendingIntent)
+com.umeng.update.util.b: com.umeng.update.util.b a(boolean)
+com.umeng.update.util.b: com.umeng.update.util.b b(boolean)
+com.umeng.update.util.b: com.umeng.update.util.b a(int)
+com.umeng.update.util.b: com.umeng.update.util.b d(java.lang.CharSequence)
+com.umeng.update.util.b: com.umeng.update.util.b a(long)
+com.umeng.update.util.c
+com.umeng.update.util.c: float a
+com.umeng.update.util.c: void <clinit>()
+com.umeng.update.util.c: c(android.content.Context)
+com.umeng.update.util.c: void a(android.content.Context)
+com.umeng.update.util.c: int a(float)
+com.umeng.update.util.c: int b(float)
+com.umeng.update.util.c: int c(float)
+com.umeng.update.util.c: int d(float)
+com.zxing.activity.CaptureActivity
+com.zxing.activity.CaptureActivity: CaptureActivity()
+com.zxing.decoding.CaptureActivityHandler$State: com.zxing.decoding.CaptureActivityHandler$State[] values()
+com.zxing.decoding.CaptureActivityHandler$State: com.zxing.decoding.CaptureActivityHandler$State valueOf(java.lang.String)
+com.zxing.view.ViewfinderView
+com.zxing.view.ViewfinderView: ViewfinderView(android.content.Context,android.util.AttributeSet)
+u.aly.ag: u.aly.ag[] values()
+u.aly.ag: u.aly.ag valueOf(java.lang.String)
+u.aly.ah$e: u.aly.ah$e[] values()
+u.aly.ah$e: u.aly.ah$e valueOf(java.lang.String)
+u.aly.ai$e: u.aly.ai$e[] values()
+u.aly.ai$e: u.aly.ai$e valueOf(java.lang.String)
+u.aly.aj$e: u.aly.aj$e[] values()
+u.aly.aj$e: u.aly.aj$e valueOf(java.lang.String)
+u.aly.ak$e: u.aly.ak$e[] values()
+u.aly.ak$e: u.aly.ak$e valueOf(java.lang.String)
+u.aly.al$e: u.aly.al$e[] values()
+u.aly.al$e: u.aly.al$e valueOf(java.lang.String)
+u.aly.am$e: u.aly.am$e[] values()
+u.aly.am$e: u.aly.am$e valueOf(java.lang.String)
+u.aly.an: u.aly.an[] values()
+u.aly.an: u.aly.an valueOf(java.lang.String)
+u.aly.ao$e: u.aly.ao$e[] values()
+u.aly.ao$e: u.aly.ao$e valueOf(java.lang.String)
+u.aly.ap: u.aly.ap[] values()
+u.aly.ap: u.aly.ap valueOf(java.lang.String)
+u.aly.aq$e: u.aly.aq$e[] values()
+u.aly.aq$e: u.aly.aq$e valueOf(java.lang.String)
+u.aly.ar$e: u.aly.ar$e[] values()
+u.aly.ar$e: u.aly.ar$e valueOf(java.lang.String)
+u.aly.as$e: u.aly.as$e[] values()
+u.aly.as$e: u.aly.as$e valueOf(java.lang.String)
+u.aly.at$e: u.aly.at$e[] values()
+u.aly.at$e: u.aly.at$e valueOf(java.lang.String)
+u.aly.au$e: u.aly.au$e[] values()
+u.aly.au$e: u.aly.au$e valueOf(java.lang.String)
+u.aly.av$e: u.aly.av$e[] values()
+u.aly.av$e: u.aly.av$e valueOf(java.lang.String)
+u.aly.aw$e: u.aly.aw$e[] values()
+u.aly.aw$e: u.aly.aw$e valueOf(java.lang.String)
+u.aly.ax$e: u.aly.ax$e[] values()
+u.aly.ax$e: u.aly.ax$e valueOf(java.lang.String)
+u.aly.ay$e: u.aly.ay$e[] values()
+u.aly.ay$e: u.aly.ay$e valueOf(java.lang.String)
+u.aly.az$a: u.aly.az$a[] values()
+u.aly.az$a: u.aly.az$a valueOf(java.lang.String)
+u.aly.ba$e: u.aly.ba$e[] values()
+u.aly.ba$e: u.aly.ba$e valueOf(java.lang.String)
+u.aly.bb$e: u.aly.bb$e[] values()
+u.aly.bb$e: u.aly.bb$e valueOf(java.lang.String)
+u.aly.bc: u.aly.bc[] values()
+u.aly.bc: u.aly.bc valueOf(java.lang.String)
+u.aly.bd$e: u.aly.bd$e[] values()
+u.aly.bd$e: u.aly.bd$e valueOf(java.lang.String)
+u.aly.be$e: u.aly.be$e[] values()
+u.aly.be$e: u.aly.be$e valueOf(java.lang.String)
+u.aly.bf$e: u.aly.bf$e[] values()
+u.aly.bf$e: u.aly.bf$e valueOf(java.lang.String)
+u.aly.bg$e: u.aly.bg$e[] values()
+u.aly.bg$e: u.aly.bg$e valueOf(java.lang.String)
+u.aly.bh$e: u.aly.bh$e[] values()
+u.aly.bh$e: u.aly.bh$e valueOf(java.lang.String)
+u.aly.bn: bn(org.json.JSONObject)
+u.aly.bn$a: u.aly.bn$a[] values()
+u.aly.bn$a: u.aly.bn$a valueOf(java.lang.String)
+u.aly.bo: java.lang.String a
+u.aly.bo: java.util.Map b
+u.aly.bo: void <clinit>()
+u.aly.bo: bo()
+u.aly.bo: u.aly.bq a(u.aly.bp,java.lang.Class)
+u.aly.bo: org.json.JSONObject a(java.lang.String,org.json.JSONObject)
+u.aly.bo: boolean a()
+u.aly.bo: java.lang.String a(java.io.InputStream)
+u.aly.bo: org.json.JSONObject a(java.lang.String)
+u.aly.bo: org.apache.http.params.HttpParams b()
+u.aly.bo: u.aly.bo a(java.util.Map)
+u.aly.bo: void b(java.lang.String)
+u.aly.bp: java.lang.String b
+u.aly.bp: java.lang.String c
+u.aly.bp: java.lang.String d
+u.aly.bp: void <clinit>()
+u.aly.bp: org.json.JSONObject a()
+u.aly.bp: java.lang.String b()
+u.aly.bp: java.lang.String c()
+u.aly.bp: bp(java.lang.String)
+u.aly.bp: void a(java.lang.String)
+u.aly.bp: java.lang.String d()
+u.aly.bq: bq(org.json.JSONObject)
+u.aly.bq: bq()
+u.aly.j
+u.upd.f: f(org.json.JSONObject)
+u.upd.f$a: u.upd.f$a[] values()
+u.upd.f$a: u.upd.f$a valueOf(java.lang.String)
+u.upd.g: java.lang.String a
+u.upd.g: java.util.Map b
+u.upd.g: void <clinit>()
+u.upd.g: g()
+u.upd.g: u.upd.i a(u.upd.h,java.lang.Class)
+u.upd.g: org.json.JSONObject a(java.lang.String,org.json.JSONObject)
+u.upd.g: boolean a()
+u.upd.g: java.lang.String a(java.io.InputStream)
+u.upd.g: org.json.JSONObject a(java.lang.String)
+u.upd.g: org.apache.http.params.HttpParams b()
+u.upd.g: u.upd.g a(java.util.Map)
+u.upd.g: void b(java.lang.String)
+u.upd.h: java.lang.String a
+u.upd.h: java.lang.String b
+u.upd.h: java.lang.String c
+u.upd.h: void <clinit>()
+u.upd.h: org.json.JSONObject a()
+u.upd.h: java.lang.String b()
+u.upd.h: java.lang.String c()
+u.upd.h: h(java.lang.String)
+u.upd.h: void a(java.lang.String)
+u.upd.h: java.lang.String d()
+u.upd.i: i(org.json.JSONObject)
+u.upd.i: i()
